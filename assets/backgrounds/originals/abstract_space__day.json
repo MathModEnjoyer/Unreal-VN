@@ -1,0 +1,20 @@
+{
+  "signature": "09383d43baf1548496630722426e3772a922754a87f941beb70098a0a5bdc2f6",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "abstract_space",
+    "time": "day",
+    "time_mode": "fixed",
+    "lighting_state": "neutral",
+    "seed": 5162906014688730839,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, abstract painting. Abstract digital gouache painting, broad softly blended matte color masses, subtle hand-painted texture and muted slate gray, dusty taupe and desaturated blue. A continuous full-frame painting, gentle tonal depth and calm balanced composition. A continuous abstract field of broad softly blended painted shapes in muted slate gray, dusty taupe and desaturated blue. Subtle uneven gouache pigment texture, gentle tonal depth and a quiet open composition across the entire image.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, furniture, windows, doors, architecture, room, buildings, landscape, horizon, sun, moon, stars, directional sunlight, hard rectangular divisions",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "5e1cb9b19767728846c77d52f82a6ca8cef1147a4c0ad3749a087964e7ca7e29",
+  "created_utc": "2026-10-15T17:08:28Z"
+}

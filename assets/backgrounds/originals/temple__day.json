@@ -1,0 +1,18 @@
+{
+  "signature": "7d8847744d189741806bd6bb53467191dbbcbaa72bb5d6e3b2c0f1590271c4f7",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "temple",
+    "time": "day",
+    "seed": 5366809491115070985,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A quiet stone ceremonial hall with simple columns, a modest central platform and high narrow windows. No icons, religious symbols, inscriptions or recognizable sacred objects. Daytime, neutral daylight entering through the existing openings, balanced interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "bf8e7c79007194c326c3693bd570c2f33322e88c3734a476aee4afcf1add00dc",
+  "created_utc": "2026-10-14T18:31:39Z"
+}

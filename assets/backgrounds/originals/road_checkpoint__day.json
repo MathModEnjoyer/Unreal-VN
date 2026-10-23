@@ -1,0 +1,20 @@
+{
+  "signature": "039b9850b11ea1ef035a561c271e571d3fe6325d86b6abb89a3d666838ea62d6",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ef0def16ab61a1ee808a353b86929befb81d5326c4fc6bc2d97a58efe0a4c7c0",
+    "location_id": "road_checkpoint",
+    "time": "day",
+    "time_mode": "outdoor",
+    "lighting_state": "day",
+    "seed": 7165441814538529139,
+    "variant": 2,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, human eye level, moderate field of view, coherent natural perspective. The environment extends to all four edges. Readable main objects in the middle ground and a clear ground plane in the bottom quarter of the picture. Standing outdoors on an unpaved road approaching a small rural checkpoint. A long plain wooden lift barrier stretches across the road in the middle distance. A small freestanding wooden guard booth with one square window stands beside the barrier on the left shoulder, occupying less than a quarter of the frame. The road runs from the bottom center to the upper middle and continues clearly beyond the barrier. Low grassy roadside banks, distant trees and unobstructed open sky complete the scene. The viewer stands under open sky in front of the checkpoint, with the booth beside the road. Neutral daytime illumination, natural colors, a simple sky and readable soft shadows.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, canopy, pavilion, shelter overhead, roof over viewer, covered road, empty hangar, concrete columns, blank sky filling frame, oversized roof, fence across grass, disconnected road, aerial view, extreme panorama",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "98965b0202bc2dcc914fea59fcdc61e79c861864adeed30ac7b402ef8ff9c34c",
+  "created_utc": "2026-10-15T18:21:18Z"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rain",
+    "file": "rain.ogg",
+    "author": "Ylmir",
+    "source": "https://opengameart.org/content/rain-loopable",
+    "download": "https://opengameart.org/sites/default/files/Rain%20OGG.zip",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "4f659f68cf5219007d0bb0969a1862491ceee4057fda4c491c6001e8608fa2cb",
+    "bytes": 550049
+  },
+  {
+    "id": "storm",
+    "file": "storm.ogg",
+    "author": "WuxiaScrub",
+    "source": "https://opengameart.org/content/rain-long-thunder",
+    "download": "https://opengameart.org/sites/default/files/rain-thunder.ogg",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "9499fd1aefa3b5d8ba3764ea46d15c00ab449be7e19c029290a1f52228f1434c",
+    "bytes": 875624
+  }
+]

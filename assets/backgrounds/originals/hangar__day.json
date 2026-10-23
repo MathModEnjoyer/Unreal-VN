@@ -1,0 +1,18 @@
+{
+  "signature": "e72979e8c6f01a7686c05d142101d9ef84c0b4aff3820864a30d8b01a22dc624",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "hangar",
+    "time": "day",
+    "seed": 1385055215424766880,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A large empty hangar with broad structural beams, wide closed doors and a clear floor. No aircraft, vehicles, readable signs or equipment fixing a specific transport type. A windowless interior in its normal daytime lighting state, balanced neutral practical illumination. No sunlight or added windows.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "7e14dafad06aa9454ab08782f89b2c1be9277f16995f29f9a56ea4116f3c9efb",
+  "created_utc": "2026-10-14T19:51:37Z"
+}

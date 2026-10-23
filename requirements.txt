@@ -1,0 +1,8 @@
+httpx>=0.27
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.9
+python-multipart>=0.0.9
+
+# Только для сборки .exe (pip install -r requirements-build.txt на Windows),
+# не нужен для обычного запуска через python run.py

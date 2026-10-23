@@ -1,0 +1,20 @@
+{
+  "signature": "61992c92482de589e829f94ffa0ecbcf37dbcd026e42623c995ff3637ad9a86f",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "carriage_interior",
+    "time": "day",
+    "time_mode": "outdoor",
+    "lighting_state": "day",
+    "seed": 5272975836063719236,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. A seated view from inside one simple wooden horse-drawn carriage. Plain low wooden side panels and a simple bench define a single coherent interior around the viewer. The open front reveals a quiet stretch of road and countryside. The frame contains only the empty carriage and landscape. Neutral daytime illumination, natural colors, a simple sky and readable soft shadows.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, horse, rider, driver, multiple carriages, duplicated carriage, disconnected arches",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "639d08542e0127a05cca8deaa6e9102445021f6783fc5ccc1f29bf9e443cda97",
+  "created_utc": "2026-10-15T16:59:49Z"
+}

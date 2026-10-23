@@ -1,0 +1,655 @@
+{
+  "version": 2,
+  "provider": "ccMixter",
+  "tracks": [
+    {
+      "id": "ccmixter_33304",
+      "title": "The Broken",
+      "artist": "Admiral Bob",
+      "contributors": "jeris, Jeris",
+      "source": "https://ccmixter.org/files/admiralbob77/33304",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"The Broken\" by Admiral Bob; contributors/samples: jeris, Jeris. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/admiralbob77/33304. Audio unchanged.",
+      "url": "/music/ccmixter_33304-3281bfc95f60.mp3",
+      "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_The_Broken.mp3",
+      "sha256": "3281bfc95f6075de924addc1f4ce6a4be0cf5f2a78f698415b7c01ce5d97c8a9",
+      "byte_size": 3922984,
+      "tags": [
+        "ambient",
+        "chimes",
+        "electric",
+        "electric_guitar",
+        "guitar",
+        "instrumental",
+        "mandolin",
+        "mellow",
+        "romantic",
+        "telecaster"
+      ],
+      "genres": [
+        "acoustic",
+        "ambient"
+      ],
+      "moods": [
+        "romantic",
+        "calm"
+      ],
+      "intensity": 0.2,
+      "bpm": null,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_40603",
+      "title": "Outer Planet",
+      "artist": "Robbero",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/Robbero/40603",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Outer Planet\" by Robbero. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/Robbero/40603. Audio unchanged.",
+      "url": "/music/ccmixter_40603-6bbe0e61107b.mp3",
+      "download_url": "https://ccmixter.org/content/Robbero/Robbero_-_Outer_Planet.mp3",
+      "sha256": "6bbe0e61107b48448960c08d389cc38d3d453ae8cbe94fc5706618e885b3e81f",
+      "byte_size": 14089448,
+      "tags": [
+        "ambient",
+        "hip_hop",
+        "horror",
+        "instrumental",
+        "mistery",
+        "outer_planet",
+        "robbero",
+        "scary"
+      ],
+      "genres": [
+        "electronic",
+        "scifi"
+      ],
+      "moods": [
+        "horror",
+        "mystery"
+      ],
+      "intensity": 0.65,
+      "bpm": 75.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_55992",
+      "title": "just u and i",
+      "artist": "urmymuse",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/urmymuse/55992",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"just u and i\" by urmymuse. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/urmymuse/55992. Audio unchanged.",
+      "url": "/music/ccmixter_55992-e49ea159784d.mp3",
+      "download_url": "https://ccmixter.org/content/urmymuse/urmymuse_-_just_u_and_i.mp3",
+      "sha256": "e49ea159784df5d9b38877428c0908551d5d5d9b543bf33bf9eb8ffbc0ebe7cb",
+      "byte_size": 2758574,
+      "tags": [
+        "bass",
+        "drums",
+        "guitar",
+        "instrumental",
+        "music_for_film",
+        "music_for_video",
+        "piano",
+        "romantic"
+      ],
+      "genres": [
+        "acoustic",
+        "piano"
+      ],
+      "moods": [
+        "romantic"
+      ],
+      "intensity": 0.35,
+      "bpm": 106.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_56527",
+      "title": "Transmutation",
+      "artist": "Kara Square",
+      "contributors": "Spinningmerkaba, spinningmerkaba",
+      "source": "https://ccmixter.org/files/mindmapthat/56527",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Transmutation\" by Kara Square; contributors/samples: Spinningmerkaba, spinningmerkaba. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/mindmapthat/56527. Audio unchanged.",
+      "url": "/music/ccmixter_56527-9298ad5ca7da.mp3",
+      "download_url": "https://ccmixter.org/content/mindmapthat/mindmapthat_-_Transmutation.mp3",
+      "sha256": "9298ad5ca7dacb9ec0e178a161d3b0964271e6a74f2b80a0ffa3807bfd893b0f",
+      "byte_size": 4172740,
+      "tags": [
+        "acoustic",
+        "ambient",
+        "brass",
+        "dark",
+        "drums",
+        "experimental",
+        "game",
+        "games",
+        "guitar",
+        "hypnotic",
+        "instrumental",
+        "music_for_film",
+        "reverse",
+        "rock",
+        "somber",
+        "trumpet"
+      ],
+      "genres": [
+        "acoustic",
+        "ambient"
+      ],
+      "moods": [
+        "mystery",
+        "tense"
+      ],
+      "intensity": 0.5,
+      "bpm": 85.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_56615",
+      "title": "The Stabbed Peach (Instrumental)",
+      "artist": "Aussens@iter",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/tobias_weber/56615",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"The Stabbed Peach (Instrumental)\" by Aussens@iter. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/tobias_weber/56615. Audio unchanged.",
+      "url": "/music/ccmixter_56615-ff78210b5cc8.mp3",
+      "download_url": "https://ccmixter.org/content/tobias_weber/tobias_weber_-_The_Stabbed_Peach_(Instrumental).mp3",
+      "sha256": "ff78210b5cc8e1b5116536f139450d60df6083d09c46f0428d2fea1eccde1e3c",
+      "byte_size": 8382215,
+      "tags": [
+        "ambient",
+        "aussensaiter",
+        "bass",
+        "chill",
+        "dark",
+        "downtempo",
+        "electro",
+        "electronic",
+        "experimental",
+        "guitar",
+        "instrumental",
+        "music_for_film",
+        "music_for_video",
+        "orchestral",
+        "pads",
+        "strings",
+        "synthesizer"
+      ],
+      "genres": [
+        "orchestral",
+        "electronic",
+        "drama"
+      ],
+      "moods": [
+        "sad",
+        "tense"
+      ],
+      "intensity": 0.4,
+      "bpm": 110.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_56686",
+      "title": "Return of the Gucci Ghost",
+      "artist": "Donnie Ozone",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/donnieozone/56686",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Return of the Gucci Ghost\" by Donnie Ozone. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/donnieozone/56686. Audio unchanged.",
+      "url": "/music/ccmixter_56686-88fe9c2742ac.mp3",
+      "download_url": "https://ccmixter.org/content/donnieozone/donnieozone_-_Return_of_the_Gucci_Ghost.mp3",
+      "sha256": "88fe9c2742acb098230a22e441ad8713d975158aaf88b59eb51bb38abee10015",
+      "byte_size": 1474604,
+      "tags": [
+        "bass",
+        "chilling",
+        "creepy",
+        "dark",
+        "downtempo",
+        "drums",
+        "eerie",
+        "electronic",
+        "hip_hop",
+        "instrumental",
+        "loops",
+        "nightmare",
+        "scary",
+        "thriller",
+        "trip_hop"
+      ],
+      "genres": [
+        "electronic",
+        "scifi"
+      ],
+      "moods": [
+        "horror",
+        "tense"
+      ],
+      "intensity": 0.65,
+      "bpm": 90.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_57017",
+      "title": "Raindrops Ragtime",
+      "artist": "Lena Orsa",
+      "contributors": "Nick Orsa",
+      "source": "https://ccmixter.org/files/lena_orsa/57017",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Raindrops Ragtime\" by Lena Orsa; contributors/samples: Nick Orsa. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/lena_orsa/57017. Audio unchanged.",
+      "url": "/music/ccmixter_57017-79f6a4e1f4fe.mp3",
+      "download_url": "https://ccmixter.org/content/lena_orsa/lena_orsa_-_Raindrops_Ragtime.mp3",
+      "sha256": "79f6a4e1f4fe07c772e9235af9565f1a08344a1f94f414fbca5604fbdba291b7",
+      "byte_size": 3473436,
+      "tags": [
+        "acoustic",
+        "composer",
+        "easy",
+        "easy_listening",
+        "funny",
+        "good",
+        "good_mood",
+        "happiness",
+        "happy",
+        "holiday",
+        "instrumental",
+        "jazz",
+        "joy",
+        "joyful",
+        "lena_orsa",
+        "lovely",
+        "music",
+        "pianist",
+        "piano",
+        "piano_music",
+        "playful",
+        "ragtime",
+        "rain",
+        "raindrops"
+      ],
+      "genres": [
+        "piano",
+        "jazz",
+        "historical"
+      ],
+      "moods": [
+        "joyful"
+      ],
+      "intensity": 0.55,
+      "bpm": 120.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_58272",
+      "title": "Awake",
+      "artist": "johnfrantz17",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/johnfrantz17/58272",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Awake\" by johnfrantz17. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/johnfrantz17/58272. Audio unchanged.",
+      "url": "/music/ccmixter_58272-8c6406342ddc.mp3",
+      "download_url": "https://ccmixter.org/content/johnfrantz17/johnfrantz17_-_Awake.mp3",
+      "sha256": "8c6406342ddc8446a7f773ab55d9ffae6b4cd88dcec13f948c6358e1a12679ba",
+      "byte_size": 2692800,
+      "tags": [
+        "flute",
+        "game_music",
+        "happy",
+        "instrumental",
+        "loops",
+        "nostalgic",
+        "orchestral"
+      ],
+      "genres": [
+        "orchestral",
+        "fantasy",
+        "historical"
+      ],
+      "moods": [
+        "joyful",
+        "calm"
+      ],
+      "intensity": 0.35,
+      "bpm": 60.0,
+      "loopable": true
+    },
+    {
+      "id": "ccmixter_59266",
+      "title": "Impending Doom",
+      "artist": "Apoxode",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/Apoxode/59266",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Impending Doom\" by Apoxode. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/Apoxode/59266. Audio unchanged.",
+      "url": "/music/ccmixter_59266-18d940d69886.mp3",
+      "download_url": "https://ccmixter.org/content/Apoxode/Apoxode_-_Impending_Doom.mp3",
+      "sha256": "18d940d698867138c6a0232e172a8d45252d8515f6b8548b490fab952810b436",
+      "byte_size": 1550255,
+      "tags": [
+        "instrumental",
+        "music_for_film",
+        "orchestral"
+      ],
+      "genres": [
+        "orchestral",
+        "adventure"
+      ],
+      "moods": [
+        "action",
+        "tense"
+      ],
+      "intensity": 0.85,
+      "bpm": 150.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_60188",
+      "title": "Riding at the Calgary Stampede",
+      "artist": "Whitewolf",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/Whitewolf225/60188",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Riding at the Calgary Stampede\" by Whitewolf. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/Whitewolf225/60188. Audio unchanged.",
+      "url": "/music/ccmixter_60188-79a5ad73df75.mp3",
+      "download_url": "https://ccmixter.org/content/Whitewolf225/Whitewolf225_-_Riding_at_the_Calgary_Stampede_1.mp3",
+      "sha256": "79a5ad73df753479f6192a752c0934251874ee4a6abddab6f17981ba7dac1966",
+      "byte_size": 8436432,
+      "tags": [
+        "acoustic",
+        "banjo",
+        "bass",
+        "cello",
+        "country",
+        "djembe",
+        "drums",
+        "electric",
+        "folk",
+        "guitar",
+        "instrumental",
+        "loops",
+        "mandolin",
+        "music_for_film",
+        "music_for_television",
+        "piano",
+        "shaker",
+        "tambourine"
+      ],
+      "genres": [
+        "acoustic",
+        "adventure",
+        "historical"
+      ],
+      "moods": [
+        "action",
+        "joyful"
+      ],
+      "intensity": 0.8,
+      "bpm": 125.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_60675",
+      "title": "Blue Sky Blues",
+      "artist": "Kara Square",
+      "contributors": "Admiral Bob",
+      "source": "https://ccmixter.org/files/mindmapthat/60675",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Blue Sky Blues\" by Kara Square; contributors/samples: Admiral Bob. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/mindmapthat/60675. Audio unchanged.",
+      "url": "/music/ccmixter_60675-00a8d7a531b2.mp3",
+      "download_url": "https://ccmixter.org/content/mindmapthat/mindmapthat_-_Blue_Sky_Blues_1.mp3",
+      "sha256": "00a8d7a531b24772b1c2621c05abc4fe5443ffca96198565fbc53c59d44dc371",
+      "byte_size": 4414110,
+      "tags": [
+        "background",
+        "bass",
+        "blues",
+        "drums",
+        "electric",
+        "electric_guitar",
+        "guitar",
+        "happy",
+        "harmonica",
+        "harp",
+        "instrumental",
+        "music_for_film",
+        "organ",
+        "positive",
+        "telecaster",
+        "ukelele",
+        "ukulele",
+        "upbeat"
+      ],
+      "genres": [
+        "acoustic",
+        "everyday"
+      ],
+      "moods": [
+        "joyful"
+      ],
+      "intensity": 0.6,
+      "bpm": 130.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_61421",
+      "title": "Outside",
+      "artist": "Admiral Bob",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/admiralbob77/61421",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Outside\" by Admiral Bob. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/admiralbob77/61421. Audio unchanged.",
+      "url": "/music/ccmixter_61421-793b61498333.mp3",
+      "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_Outside.mp3",
+      "sha256": "793b61498333c6cc6e6920a0a5cbfaa8d4dd0a55ef79b9ca4a5b6d8f1b46cc7f",
+      "byte_size": 5373953,
+      "tags": [
+        "acoustic",
+        "bass",
+        "drums",
+        "fretless",
+        "guitar",
+        "instrumental",
+        "music_for_film",
+        "piano"
+      ],
+      "genres": [
+        "acoustic",
+        "everyday"
+      ],
+      "moods": [
+        "calm"
+      ],
+      "intensity": 0.2,
+      "bpm": 117.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_64688",
+      "title": "Retrospection",
+      "artist": "koi_discovery",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/koi_discovery/64688",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Retrospection\" by koi_discovery. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/koi_discovery/64688. Audio unchanged.",
+      "url": "/music/ccmixter_64688-7178a241ea1a.mp3",
+      "download_url": "https://ccmixter.org/content/koi_discovery/koi_discovery_-_Retrospection.mp3",
+      "sha256": "7178a241ea1a469df5f14a9c759f0fb694c4e59ba5dc345618d9617303dda9eb",
+      "byte_size": 10121344,
+      "tags": [
+        "bass",
+        "instrumental",
+        "music_for_film",
+        "orchestral",
+        "piano",
+        "strings",
+        "synthesizer"
+      ],
+      "genres": [
+        "piano",
+        "strings",
+        "drama"
+      ],
+      "moods": [
+        "sad",
+        "calm"
+      ],
+      "intensity": 0.25,
+      "bpm": 85.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_65286",
+      "title": "Lemonseven",
+      "artist": "septahelix",
+      "contributors": "Calyman",
+      "source": "https://ccmixter.org/files/septahelix/65286",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Lemonseven\" by septahelix; contributors/samples: Calyman. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/septahelix/65286. Audio unchanged.",
+      "url": "/music/ccmixter_65286-8887f317ebfb.mp3",
+      "download_url": "https://ccmixter.org/content/septahelix/septahelix_-_Lemonseven.mp3",
+      "sha256": "8887f317ebfb70cd72ce1274afacd34227777cb33178211e046c75168aaa9d43",
+      "byte_size": 7508681,
+      "tags": [
+        "ambient",
+        "bass",
+        "chill",
+        "downtempo",
+        "drums",
+        "electronic",
+        "experimental",
+        "instrumental",
+        "jazz",
+        "music_for_film",
+        "synthesizer",
+        "trip_hop"
+      ],
+      "genres": [
+        "jazz",
+        "noir",
+        "electronic"
+      ],
+      "moods": [
+        "mystery",
+        "calm"
+      ],
+      "intensity": 0.35,
+      "bpm": null,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_65416",
+      "title": "sleepwalking",
+      "artist": "airtone",
+      "contributors": "Darkroom",
+      "source": "https://ccmixter.org/files/airtone/65416",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"sleepwalking\" by airtone; contributors/samples: Darkroom. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/airtone/65416. Audio unchanged.",
+      "url": "/music/ccmixter_65416-806489e3fd9b.mp3",
+      "download_url": "https://ccmixter.org/content/airtone/airtone_-_sleepwalking.mp3",
+      "sha256": "806489e3fd9b168272559afc62046381179a0c6b2929a1ec93cf2a47f3833fed",
+      "byte_size": 10565006,
+      "tags": [
+        "ambient",
+        "chill",
+        "electronic",
+        "experimental",
+        "instrumental",
+        "music_for_film",
+        "synthesizer"
+      ],
+      "genres": [
+        "electronic",
+        "ambient"
+      ],
+      "moods": [
+        "calm"
+      ],
+      "intensity": 0.25,
+      "bpm": 80.0,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_65564",
+      "title": "Apparitions",
+      "artist": "Zenboy1955",
+      "contributors": "",
+      "source": "https://ccmixter.org/files/Zenboy1955/65564",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"Apparitions\" by Zenboy1955. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/Zenboy1955/65564. Audio unchanged.",
+      "url": "/music/ccmixter_65564-28a216fbac51.mp3",
+      "download_url": "https://ccmixter.org/content/Zenboy1955/Zenboy1955_-_Apparitions_1.mp3",
+      "sha256": "28a216fbac51311e930cc9e43eda47d5ba01e4b0891894b9cce6ace90a660145",
+      "byte_size": 3125184,
+      "tags": [
+        "experimental",
+        "film_cue",
+        "instrumental",
+        "music_for_film",
+        "orchestral"
+      ],
+      "genres": [
+        "orchestral",
+        "fantasy"
+      ],
+      "moods": [
+        "horror",
+        "mystery",
+        "tense"
+      ],
+      "intensity": 0.65,
+      "bpm": null,
+      "loopable": false
+    },
+    {
+      "id": "ccmixter_66098",
+      "title": "roboduck",
+      "artist": "airtone",
+      "contributors": "duckett",
+      "source": "https://ccmixter.org/files/airtone/66098",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "\"roboduck\" by airtone; contributors/samples: duckett. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Source: https://ccmixter.org/files/airtone/66098. Audio unchanged.",
+      "url": "/music/ccmixter_66098-bb2f1c336f9e.mp3",
+      "download_url": "https://ccmixter.org/content/airtone/airtone_-_roboduck_1.mp3",
+      "sha256": "bb2f1c336f9ec2495e7c151c3d11fd21edcea7453a747975c73a8d7e08874308",
+      "byte_size": 9364419,
+      "tags": [
+        "ambient",
+        "chill",
+        "electronic",
+        "instrumental",
+        "music_for_film",
+        "synthesizer"
+      ],
+      "genres": [
+        "electronic",
+        "scifi"
+      ],
+      "moods": [
+        "calm"
+      ],
+      "intensity": 0.25,
+      "bpm": 80.0,
+      "loopable": false
+    }
+  ]
+}

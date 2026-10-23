@@ -1,0 +1,18 @@
+{
+  "signature": "250807f22dcf0dd73379c311e8e407512fcb2149c3ea6c7274d1e426adafff2a",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "spaceship_bridge",
+    "time": "day",
+    "seed": 6992787410388202174,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. An empty spaceship bridge with simple control consoles and a broad forward window showing dark space and distant stars. No crew, planets filling the window or text on displays. The normal onboard day shift, balanced neutral interior lighting. Space beyond any existing windows stays dark.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "e0b2d1c1e3032ab09d0c0a4c1645d20783c2807bd0f1e90891c4d01e2edd27de",
+  "created_utc": "2026-10-14T19:59:44Z"
+}

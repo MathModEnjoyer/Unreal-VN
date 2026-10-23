@@ -1,0 +1,20 @@
+{
+  "signature": "679c246f22e8981c2357b702b1ebf893351751091574b05f86bc206389745902",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "mine",
+    "time": "day",
+    "time_mode": "fixed",
+    "lighting_state": "neutral",
+    "seed": 1233854350867427859,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. Standing inside a broad underground mine passage at human eye level. Rough rock walls and ceiling surround the viewer and extend to all image edges, supported by a few simple wooden beams. A clear floor path leads deeper into the tunnel, with a small empty ore cart set to one side. Readable muted rock surfaces and steady off-frame practical light. Steady soft local illumination, readable subdued surroundings and a consistent balanced palette.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, exterior view, isometric view, dollhouse, display model, exposed cutaway",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "ff972b5553cbc9816d3170aa92e80063a1bcbcad0b8785aa91782b08381bb46c",
+  "created_utc": "2026-10-15T16:52:53Z"
+}

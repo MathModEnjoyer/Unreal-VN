@@ -1,0 +1,18 @@
+{
+  "signature": "613a1773123c5cd0a70de20acdb75ea633cae875aaef69e23e75352177e732e0",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "bedroom",
+    "time": "day",
+    "seed": 6321241689002407366,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A modest bedroom with a plain bed, bedside table, wooden wardrobe and a simple window. Neutral textiles and plaster walls, no television or appliances. Daytime, neutral daylight entering through the existing openings, balanced interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "71e1d06a63cdeceb54597582c0db96be05d115b5eff4b168a2e9051944d3342d",
+  "created_utc": "2026-10-14T18:13:13Z"
+}

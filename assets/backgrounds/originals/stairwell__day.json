@@ -1,0 +1,18 @@
+{
+  "signature": "9c588d5a5e958c4006bd0f10892977f663a8edb9bfc2ec1bd80380c12617ff47",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "stairwell",
+    "time": "day",
+    "seed": 3171793706963891462,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A plain stair landing with simple stairs and a modest railing, a small window and undecorated walls. No electrical panels, intercoms or signs. Daytime, neutral daylight entering through the existing openings, balanced interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "bd88df87945ea7393b45275db8d221f982dcec652c9c30c8c78eed5fdd32db3d",
+  "created_utc": "2026-10-14T18:25:33Z"
+}

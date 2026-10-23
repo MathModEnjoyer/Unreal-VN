@@ -1,0 +1,18 @@
+{
+  "signature": "7318475261865fbed71cb1301b23a4ee79a470226ae3a8c585db350d27948acb",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "train_car",
+    "time": "day",
+    "seed": 2715742277087994686,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. The interior of an empty passenger railway carriage, paired seats, a central aisle and broad characteristic train windows. No passengers, logos or readable notices. Daytime, neutral daylight entering through the existing openings, balanced interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "a9381492100f3429cab4363c258cf2966c566bcfca6b33c12740aed5d2e3a779",
+  "created_utc": "2026-10-14T19:11:09Z"
+}

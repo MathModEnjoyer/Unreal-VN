@@ -1,0 +1,18 @@
+{
+  "signature": "1a82d1f153775437e1841e4a6e75029c22e0a6d447aa8051c638d0b234415e23",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "meadow",
+    "time": "day",
+    "seed": 8226305076844809967,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A wide open meadow with soft grasses, low rolling hills and a few distant trees, simple spacious foreground. Daytime with clear neutral daylight, balanced natural colors, readable shadows and a simple sky.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "cef61ed2e8560fcf885356d27f2b16328abf9bcfd1c68dc88f704cdae730a904",
+  "created_utc": "2026-10-14T16:17:22Z"
+}

@@ -1,0 +1,20 @@
+{
+  "signature": "adf930cff5f3f4bfd94778340ad4e7dd603e7f1379cd10aa59c9e21c2664dcad",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "hospital_room",
+    "time": "day",
+    "time_mode": "windowed",
+    "lighting_state": "day",
+    "seed": 7708944304178807656,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. Inside a quiet empty hospital room at eye level, with two simple medical beds placed against the side walls, a bedside cabinet and an ordinary IV stand. A modest existing side window provides diffuse daylight. A clear central walking area and continuous walls form one complete room seen from inside. Neutral diffuse daylight through the existing windows or openings, balanced readable interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, ",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "06533f6354a7fbc1a3a16663b71c6f6c9ffc11a6c20733a4d3c4a2537bbab73a",
+  "created_utc": "2026-10-15T17:01:32Z"
+}

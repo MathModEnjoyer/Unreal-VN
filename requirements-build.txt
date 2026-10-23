@@ -1,0 +1,5 @@
+-r requirements.txt
+pyinstaller>=6.10
+
+# Development-time import of compact background images.
+Pillow>=11

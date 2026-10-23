@@ -1,0 +1,20 @@
+{
+  "signature": "1b566575c99f633cf27a4a695fb768d07d1bafed1300243e561afb26cf5e4b84",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ef0def16ab61a1ee808a353b86929befb81d5326c4fc6bc2d97a58efe0a4c7c0",
+    "location_id": "workshop",
+    "time": "day",
+    "time_mode": "windowed",
+    "lighting_state": "day",
+    "seed": 3937072848574515483,
+    "variant": 2,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, human eye level, moderate field of view, coherent natural perspective. The environment extends to all four edges. Readable main objects in the middle ground and a clear ground plane in the bottom quarter of the picture. An unobstructed view across one small rectangular carpentry workshop, from inside the same room as the workbench. A broad wooden workbench with visible legs and a simple vice stretches across the center of the back wall, occupying the central half of the picture. Two wooden shelves and a few simple hanging hand tools are directly above it. A small side window gives diffuse daylight. The near floor occupies the bottom quarter, while the bench and shelving occupy the middle of the picture. Plain side walls meet the image edges and the entire work area is directly visible. Neutral diffuse daylight through the existing windows or openings, balanced readable interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, interior partitions, foreground pillar, foreground wall, wall blocking workbench, view through doorway, view through window, window frame, distant tiny workbench, alcove, empty room, oversized blank walls",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "ee59d5491a3eadf245f58f8838bbf74d7c9773139ba1a18d51a22ba4321fe707",
+  "created_utc": "2026-10-15T18:17:37Z"
+}

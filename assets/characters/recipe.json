@@ -1,0 +1,358 @@
+{
+  "version": 6,
+  "purpose": "fully-clothed-character-library",
+  "model_revision": "f973fc41ec7545364ac9776c2440285f43ff2a30",
+  "comfy_revision": "e0a32bce84f4603f2b61b16b50f8958e68fd6171",
+  "models": [
+    {
+      "path": "split_files/diffusion_models/anima-aesthetic-v1.1.safetensors",
+      "kind": "diffusion_models",
+      "size": 4182230656,
+      "sha256": "3c1868387a3a1ff504bbb87c33678321965ead381fcf87afbd0264daa600c082"
+    },
+    {
+      "path": "split_files/text_encoders/qwen_3_06b_base.safetensors",
+      "kind": "text_encoders",
+      "size": 1192135096,
+      "sha256": "cd2a512003e2f9f3cd3c32a9c3573f820bb28c940f73c57b1ddaa983d9223eba"
+    },
+    {
+      "path": "split_files/vae/qwen_image_vae.safetensors",
+      "kind": "vae",
+      "size": 253806246,
+      "sha256": "a70580f0213e67967ee9c95f05bb400e8fb08307e017a924bf3441223e023d1f"
+    }
+  ],
+  "base_seed": 20261020,
+  "variant": 1,
+  "width": 640,
+  "height": 960,
+  "steps": 40,
+  "cfg": 4.5,
+  "style": "Digital gouache character illustration with a gentle anime influence, simple readable forms, broad matte color masses, soft hand-painted texture, restrained detail, harmonious muted colors. One fully clothed adult person, solo, full body with head and feet visible, centered, front three-quarter view, relaxed standing pose, arms apart from the torso, empty hands, neutral attentive expression, soft diffuse daylight, flat plain light gray background, no scenery, no cast shadow, no ground plane, consistent eye-level camera. ",
+  "negative": "child, teen, young-looking, school uniform, nude, underwear, lingerie, revealing clothes, photograph, photorealistic, 3d render, pixel art, glossy plastic, highly detailed, extra limbs, extra fingers, fused hands, cropped head, cropped feet, sitting, multiple people, duplicate person, crowd, text, watermark, logo, scenery, furniture",
+  "appearance_pool_version": 4,
+  "appearance_pool": {
+    "gender": {
+      "woman": [
+        "женщина",
+        "woman"
+      ],
+      "man": [
+        "мужчина",
+        "man"
+      ]
+    },
+    "height": {
+      "short": [
+        "низкий",
+        "short stature"
+      ],
+      "average": [
+        "средний",
+        "average height"
+      ],
+      "tall": [
+        "высокий",
+        "tall stature"
+      ]
+    },
+    "build": {
+      "slender": [
+        "стройное",
+        "slender build"
+      ],
+      "average": [
+        "обычное",
+        "average build"
+      ],
+      "stocky": [
+        "коренастое",
+        "stocky build"
+      ],
+      "full": [
+        "полное",
+        "full-bodied build"
+      ],
+      "broad": [
+        "широкоплечее",
+        "broad-shouldered build"
+      ]
+    },
+    "skin": {
+      "very_light": [
+        "очень светлая",
+        "very light skin"
+      ],
+      "light": [
+        "светлая",
+        "light skin"
+      ],
+      "tan": [
+        "смуглая",
+        "tan skin"
+      ],
+      "brown": [
+        "коричневая",
+        "brown skin"
+      ],
+      "dark_brown": [
+        "тёмно-коричневая",
+        "dark brown skin"
+      ]
+    },
+    "face": {
+      "oval": [
+        "овальное",
+        "oval face"
+      ],
+      "round": [
+        "круглое",
+        "round face"
+      ],
+      "angular": [
+        "угловатое",
+        "angular face"
+      ],
+      "long": [
+        "вытянутое",
+        "long face"
+      ]
+    },
+    "eyes": {
+      "brown": [
+        "карие",
+        "brown eyes"
+      ],
+      "hazel": [
+        "ореховые",
+        "hazel eyes"
+      ],
+      "gray": [
+        "серые",
+        "gray eyes"
+      ],
+      "blue": [
+        "голубые",
+        "blue eyes"
+      ],
+      "green": [
+        "зелёные",
+        "green eyes"
+      ]
+    },
+    "hair_color": {
+      "black": [
+        "чёрные",
+        "black hair"
+      ],
+      "dark_brown": [
+        "тёмно-каштановые",
+        "dark brown hair"
+      ],
+      "chestnut": [
+        "каштановые",
+        "chestnut hair"
+      ],
+      "light_brown": [
+        "русые",
+        "light brown hair"
+      ],
+      "blond": [
+        "светлые",
+        "blond hair"
+      ],
+      "auburn": [
+        "рыжие",
+        "auburn hair"
+      ],
+      "gray": [
+        "седые",
+        "gray hair"
+      ],
+      "white": [
+        "белые",
+        "white hair"
+      ],
+      "none": [
+        "не применим — без волос",
+        ""
+      ]
+    },
+    "hair": {
+      "cropped": [
+        "очень короткие",
+        "closely cropped haircut"
+      ],
+      "short": [
+        "короткие",
+        "short haircut"
+      ],
+      "bob": [
+        "каре",
+        "bob haircut"
+      ],
+      "shoulder": [
+        "до плеч",
+        "shoulder-length hairstyle"
+      ],
+      "long": [
+        "длинные",
+        "long hairstyle"
+      ],
+      "ponytail": [
+        "хвост",
+        "hair tied in a ponytail"
+      ],
+      "bun": [
+        "пучок",
+        "hair tied in a bun"
+      ],
+      "bald": [
+        "без волос",
+        "bald head"
+      ]
+    },
+    "facial_hair": {
+      "none": [
+        "нет",
+        "clean-shaven face"
+      ],
+      "stubble": [
+        "щетина",
+        "light stubble"
+      ],
+      "mustache": [
+        "усы",
+        "a simple mustache"
+      ],
+      "beard": [
+        "короткая борода",
+        "a short beard"
+      ]
+    },
+    "detail": {
+      "none": [
+        "нет",
+        ""
+      ],
+      "freckles": [
+        "веснушки",
+        "subtle freckles"
+      ],
+      "mole": [
+        "родинка",
+        "a small facial mole"
+      ],
+      "scar": [
+        "небольшой шрам",
+        "a small facial scar"
+      ],
+      "glasses": [
+        "простые очки",
+        "simple eyeglasses"
+      ]
+    },
+    "outfit": {
+      "casual": [
+        "повседневная одежда",
+        "a plain long-sleeved shirt, straight trousers and simple shoes"
+      ],
+      "coat": [
+        "пальто",
+        "a modest knee-length coat over a shirt and trousers, closed boots"
+      ],
+      "work": [
+        "рабочая одежда",
+        "a woven work shirt, plain trousers, a canvas apron and closed boots"
+      ],
+      "traveler": [
+        "дорожный костюм",
+        "a layered tunic, a short cloth cape, trousers and leather boots"
+      ],
+      "medic": [
+        "медицинский халат",
+        "a plain medical coat over everyday clothes and closed shoes, no logos"
+      ],
+      "formal": [
+        "строгий костюм",
+        "a restrained jacket, plain shirt, tailored trousers and shoes"
+      ],
+      "dress": [
+        "простое платье",
+        "a plain modest long-sleeved dress and closed shoes"
+      ],
+      "uniform": [
+        "служебная форма",
+        "a simple fully closed service uniform and boots, no insignia"
+      ],
+      "robe": [
+        "длинное одеяние",
+        "a plain long cloth robe over an opaque tunic, closed shoes, no symbols"
+      ],
+      "space": [
+        "фантастический комбинезон",
+        "a simple fully closed science-fiction utility jumpsuit and boots, no helmet"
+      ]
+    },
+    "palette": {
+      "gray": [
+        "серый",
+        "muted gray"
+      ],
+      "brown": [
+        "коричневый",
+        "muted brown"
+      ],
+      "navy": [
+        "тёмно-синий",
+        "muted navy blue"
+      ],
+      "olive": [
+        "оливковый",
+        "muted olive"
+      ],
+      "burgundy": [
+        "бордовый",
+        "muted burgundy"
+      ],
+      "beige": [
+        "бежевый",
+        "muted beige"
+      ]
+    }
+  },
+  "diversity": {
+    "version": 2,
+    "candidates_per_profile": 384,
+    "age_bands": [
+      [
+        25,
+        34
+      ],
+      [
+        35,
+        49
+      ],
+      [
+        50,
+        60
+      ]
+    ],
+    "weights": {
+      "gender": 4,
+      "age": 3,
+      "outfit": 5,
+      "build": 4,
+      "hair": 4,
+      "height": 1.5,
+      "skin": 2,
+      "facial_hair": 2,
+      "hair_color": 1.5,
+      "palette": 1,
+      "face": 0.75,
+      "detail": 0.5,
+      "eyes": 0.25
+    }
+  }
+}

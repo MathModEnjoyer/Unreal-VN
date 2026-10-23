@@ -1,0 +1,18 @@
+{
+  "signature": "d772e0e3dc8580830e97b47b70c7e17999191f78531d6ca6caaf69a3d768a9bd",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "country_road",
+    "time": "day",
+    "seed": 6655001272990553756,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. An unpaved country road between low grassy banks and distant trees. No vehicles, road signs, pavement, utility poles or power lines. Daytime with clear neutral daylight, balanced natural colors, readable shadows and a simple sky.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "06beadf63468b262c097fa781db348d9a2e6c99292f1b41b0b10b810fd285e83",
+  "created_utc": "2026-10-14T16:11:59Z"
+}

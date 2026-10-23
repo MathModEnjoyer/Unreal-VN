@@ -1,0 +1,2866 @@
+{
+  "schema_version": 4,
+  "source_run": "mixed",
+  "places": {
+    "forest_path": {
+      "label": "Лесная тропа",
+      "prompt": "A winding earth footpath between tall trees, layered green foliage and tree trunks, a clear open foreground. Timeless woodland with no buildings or equipment.",
+      "keywords": [
+        "Лесная тропа",
+        "Тропа среди деревьев; подходит разным эпохам."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "forest_path__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "421dfc9a8040c90b8e226e8369af90099568dd0d5dd1c28783ac445555e633a1",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "421dfc9a8040c90b8e226e8369af90099568dd0d5dd1c28783ac445555e633a1",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.02,
+              0.35
+            ],
+            [
+              0.3,
+              0.35
+            ],
+            [
+              0.3,
+              0.66
+            ],
+            [
+              0.02,
+              0.85
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "forest_clearing": {
+      "label": "Лесная поляна",
+      "prompt": "A broad grassy clearing surrounded by trees, a simple opening between leafy canopies, distant woodland and an uncluttered foreground.",
+      "keywords": [
+        "Лесная поляна",
+        "Открытая площадка среди деревьев."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "forest_clearing__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "eef9ceddfcb448fd2500d6b3e6e797add23100966cfa69fa592bec2398bfc1dc",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "eef9ceddfcb448fd2500d6b3e6e797add23100966cfa69fa592bec2398bfc1dc",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.05,
+              0.55
+            ],
+            [
+              0.95,
+              0.55
+            ],
+            [
+              0.95,
+              0.92
+            ],
+            [
+              0.05,
+              0.92
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "country_road": {
+      "label": "Грунтовая дорога",
+      "prompt": "An unpaved country road between low grassy banks and distant trees. No vehicles, road signs, pavement, utility poles or power lines.",
+      "keywords": [
+        "Грунтовая дорога",
+        "Без автомобилей, знаков и линий электропередачи."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "country_road__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "976ab4b2e46d720c9ea0849e621a669859992aed86af30832776a78257614577",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "976ab4b2e46d720c9ea0849e621a669859992aed86af30832776a78257614577",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "meadow": {
+      "label": "Луг",
+      "prompt": "A wide open meadow with soft grasses, low rolling hills and a few distant trees, simple spacious foreground.",
+      "keywords": [
+        "Луг",
+        "Открытая травянистая местность."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "meadow__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "9a708a51887b2c8295cdfce387f598e132d89e0efbda1b5f6db4fd2f5048a76e",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "9a708a51887b2c8295cdfce387f598e132d89e0efbda1b5f6db4fd2f5048a76e",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.03,
+              0.67
+            ],
+            [
+              0.97,
+              0.67
+            ],
+            [
+              0.97,
+              0.95
+            ],
+            [
+              0.03,
+              0.95
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "riverbank": {
+      "label": "Берег реки",
+      "prompt": "A gently flowing river seen from its grassy bank, stones near the water and distant trees. No architecture or machinery.",
+      "keywords": [
+        "Берег реки",
+        "Берег и текущая вода; без характерной архитектуры."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "riverbank__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "8d72aac8ab2008f5a47b1057c87339f6b50bbf2bec86bd08cf1906a14b56f23f",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "8d72aac8ab2008f5a47b1057c87339f6b50bbf2bec86bd08cf1906a14b56f23f",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.08,
+              0.66
+            ],
+            [
+              0.92,
+              0.6
+            ],
+            [
+              0.96,
+              0.89
+            ],
+            [
+              0.08,
+              0.89
+            ]
+          ]
+        },
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "805e780b52dd00c72dd2209e28ea6ed6057e036676f32f3dfcb171c511cba65b"
+    },
+    "lakeshore": {
+      "label": "Берег озера",
+      "prompt": "A quiet lake seen from a natural grassy shore, calm water and a distant wooded opposite bank. No buildings or boats.",
+      "keywords": [
+        "Берег озера",
+        "Спокойная вода, противоположный берег."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "lakeshore__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a5904b4f3017c2f9d6006c4d86cda76cb359280c1df4c8b684f99d5858d4670e",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "a5904b4f3017c2f9d6006c4d86cda76cb359280c1df4c8b684f99d5858d4670e",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.03,
+              0.86
+            ],
+            [
+              0.97,
+              0.86
+            ],
+            [
+              0.97,
+              0.97
+            ],
+            [
+              0.03,
+              0.97
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "sandy_beach": {
+      "label": "Песчаный пляж",
+      "prompt": "An empty sandy beach, a calm sea and a broad horizon, a few rocks at the edge. No umbrellas, sunbeds or resort equipment.",
+      "keywords": [
+        "Песчаный пляж",
+        "Песок, море, горизонт; без курортного оборудования."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "sandy_beach__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "f9319532c042fbd15b3c8ed15fb69e5a2c93d32e6d965442cd2f27dbd86bcb0b",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "f9319532c042fbd15b3c8ed15fb69e5a2c93d32e6d965442cd2f27dbd86bcb0b",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "rocky_coast": {
+      "label": "Скалистое побережье",
+      "prompt": "A rugged coastal cliff overlooking the sea, broad rock formations and a narrow safe footpath in the foreground. No buildings.",
+      "keywords": [
+        "Скалистое побережье",
+        "Обрыв и море; подходит также прибрежным скалам."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "rocky_coast__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "037d1c1395d996471b3ae33085aa31b34d7829811704a841b8b784a352280da8",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "037d1c1395d996471b3ae33085aa31b34d7829811704a841b8b784a352280da8",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "mountain_pass": {
+      "label": "Горный перевал",
+      "prompt": "A stone footpath through a mountain pass between broad rocky slopes, distant mountain silhouettes. No buildings, vehicles or ice.",
+      "keywords": [
+        "Горный перевал",
+        "Каменная тропа между склонами."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "mountain_pass__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "290bb83162b90d01c8c0435e730bf341d4452fe0b972eb96a21f00af2510f250",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "290bb83162b90d01c8c0435e730bf341d4452fe0b972eb96a21f00af2510f250",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "cave": {
+      "label": "Пещера",
+      "prompt": "The interior of a natural rock cave, broad stone walls, a flat open foreground and a passage receding into darkness. No magical crystals or equipment.",
+      "keywords": [
+        "Пещера",
+        "Естественная полость в камне."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "cave__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "01d373227e220e577da63ddcfe358a72c7d57a8124082faf16b07c3b030be53e",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "01d373227e220e577da63ddcfe358a72c7d57a8124082faf16b07c3b030be53e",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "3f4682e6fabee14ebb9d1d327df925582cfd50a17f1245a8cde942116ee4d50f"
+    },
+    "swamp": {
+      "label": "Болото",
+      "prompt": "A still wetland with shallow pools, reeds and twisted trees, broad patches of vegetation and a firm foreground bank. Clear air with no fog.",
+      "keywords": [
+        "Болото",
+        "Заболоченная местность, вода и растительность."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "swamp__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "2e45bb12196058ace2182bd62a0c80d6a16097287a80d69a6d1ae154abf9975a",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "2e45bb12196058ace2182bd62a0c80d6a16097287a80d69a6d1ae154abf9975a",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.01,
+              0.25
+            ],
+            [
+              0.16,
+              0.25
+            ],
+            [
+              0.2,
+              0.68
+            ],
+            [
+              0.01,
+              0.72
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "old_bridge": {
+      "label": "Старый мост",
+      "prompt": "A modest old stone bridge across a small river, viewed from its approach, low stone parapets and nearby trees. No road markings or modern fittings.",
+      "keywords": [
+        "Старый мост",
+        "Простой каменный мост; без современной дорожной разметки."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "old_bridge__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "f6f23e2236d173b2849acc9ed04f7be3b22a193339c8d92020970676f72a6354",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "f6f23e2236d173b2849acc9ed04f7be3b22a193339c8d92020970676f72a6354",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_ef0def16ab61a1ee",
+      "source_original_sha256": "d2c79cfac17de05808270d72c30b8c6992abf2605db0f2ee49fc0f2b9bee80c3"
+    },
+    "desert": {
+      "label": "Пустыня",
+      "prompt": "An open desert with low sand dunes and a few broad weathered rock formations, spacious foreground and distant horizon. No settlements.",
+      "keywords": [
+        "Пустыня",
+        "Песок и скалы; без построек конкретной эпохи."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "desert__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "f46be5d55fb41afbb18b9f3506bb7bb6f92f03e5e581ef6f453a52db51d12868",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "f46be5d55fb41afbb18b9f3506bb7bb6f92f03e5e581ef6f453a52db51d12868",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "camp": {
+      "label": "Походный лагерь",
+      "prompt": "A small campsite with one plain canvas tent and a simple stone fire ring, surrounded by trees. No branded camping gear, plastics or modern equipment.",
+      "keywords": [
+        "Походный лагерь",
+        "Простая тканевая палатка и место костра; без современной туристической техники."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "camp__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "e3c645c7569294e8f046bf2aebb3f25025f68fc7b6b4decf0cc0a01e5903a56e",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "e3c645c7569294e8f046bf2aebb3f25025f68fc7b6b4decf0cc0a01e5903a56e",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [
+          "embers"
+        ],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.05,
+              0.11
+            ],
+            [
+              0.91,
+              0.11
+            ],
+            [
+              0.91,
+              0.22
+            ],
+            [
+              0.05,
+              0.22
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "settlement_street": {
+      "label": "Улица поселения",
+      "prompt": "A quiet street lined with modest low houses of plain plaster and wood, simple doors and windows. No cars, utility wires, signs or ornate period-specific architecture.",
+      "keywords": [
+        "Улица поселения",
+        "Невысокие простые дома, штукатурка и дерево; без машин, проводов и вывесок."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "settlement_street__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "db555b481785a3a102ec66503148138a84eb68af87b904a4f6207335d9ba802e",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "db555b481785a3a102ec66503148138a84eb68af87b904a4f6207335d9ba802e",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "narrow_alley": {
+      "label": "Узкий переулок",
+      "prompt": "A narrow empty alley between plain plaster and stone walls, simple doorways and a bend in the passage. No signs, cables or vehicles.",
+      "keywords": [
+        "Узкий переулок",
+        "Нейтральные стены, узкий проход."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "narrow_alley__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "61d282ecfee1580bd67f3ab18764d6c0d42390afec455b75d368bb056b28c0bb",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "61d282ecfee1580bd67f3ab18764d6c0d42390afec455b75d368bb056b28c0bb",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "courtyard": {
+      "label": "Жилой двор",
+      "prompt": "A small residential courtyard enclosed by simple plaster houses, a plain wooden bench and sparse plants. Neutral architecture with no modern utilities.",
+      "keywords": [
+        "Жилой двор",
+        "Небольшой двор простых домов; без технических и стилистических маркеров."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "courtyard__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "7ab408d767e8b45bb7e9d49f34d640e1ebd1f69e9d9d4fbd039009fc2f2294a6",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "7ab408d767e8b45bb7e9d49f34d640e1ebd1f69e9d9d4fbd039009fc2f2294a6",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "town_square": {
+      "label": "Городская площадь",
+      "prompt": "An open town square bordered by modest plain buildings, simple stone paving and a few trees. No monuments, traffic, signs or recognizable landmarks.",
+      "keywords": [
+        "Городская площадь",
+        "Открытое пространство с нейтральной застройкой."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "town_square__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5bb122d86c1ec0f0a4224fb5fa263c4a933d4e39b751964b2d70b29810555f36",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "5bb122d86c1ec0f0a4224fb5fa263c4a933d4e39b751964b2d70b29810555f36",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "market": {
+      "label": "Рынок",
+      "prompt": "An empty market with simple wooden stalls and cloth awnings, a broad walking aisle and a few baskets. No vendors, price labels or modern equipment.",
+      "keywords": [
+        "Рынок",
+        "Прилавки и навесы; без торговцев и читаемых ценников."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "market__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "92530636af503083b4d2d2fab2e2cbe95989cc19c070199955c8e4a1a46e557c",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "92530636af503083b4d2d2fab2e2cbe95989cc19c070199955c8e4a1a46e557c",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "park": {
+      "label": "Парк",
+      "prompt": "A quiet park with a curving path, leafy trees and a plain wooden bench. No playground equipment, signs or street lamps of a specific era.",
+      "keywords": [
+        "Парк",
+        "Дорожка, деревья, простая скамья."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "park__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "1dc8c40a8de07de150f14e9b6a7519addc2a963d7c63e91adf5c93a50afb573e",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "1dc8c40a8de07de150f14e9b6a7519addc2a963d7c63e91adf5c93a50afb573e",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": true,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {
+          "fireflies": [
+            [
+              0.03,
+              0.22
+            ],
+            [
+              0.88,
+              0.22
+            ],
+            [
+              0.88,
+              0.47
+            ],
+            [
+              0.03,
+              0.47
+            ]
+          ]
+        },
+        "event_flash": true
+      }
+    },
+    "embankment": {
+      "label": "Набережная",
+      "prompt": "A simple pedestrian embankment beside a river, low stone railing and a broad waterfront walkway. No vehicles, famous skyline or transport infrastructure.",
+      "keywords": [
+        "Набережная",
+        "Прогулочное пространство у воды; без транспортных объектов."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "embankment__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "60086ce53921cb03a6cb984610e86444dc2d5c364980908378df5a8dd16179b8",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "60086ce53921cb03a6cb984610e86444dc2d5c364980908378df5a8dd16179b8",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "harbor_quay": {
+      "label": "Причал",
+      "prompt": "A quiet small quay with simple mooring posts, coiled ropes, wooden planks and still harbor water. No ships, cranes or cargo machinery in frame.",
+      "keywords": [
+        "Причал",
+        "Место швартовки, вода и канаты; без крана, лайнера или парусника в кадре."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "harbor_quay__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "2be0e7197461c1c8af68a0811692172c98bcd8c709b5a381ad69c5dbd0602d85",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "2be0e7197461c1c8af68a0811692172c98bcd8c709b5a381ad69c5dbd0602d85",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "cemetery": {
+      "label": "Кладбище",
+      "prompt": "A quiet cemetery path between simple weathered stone markers and sparse trees. Blank undecorated stones with no lettering, crosses or religious symbols.",
+      "keywords": [
+        "Кладбище",
+        "Простые каменные надгробия без надписей и религиозных символов."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "cemetery__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5d359f044d4f92eb51970925a8e48fa49b54255cf98360535a152afe408d2679",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "5d359f044d4f92eb51970925a8e48fa49b54255cf98360535a152afe408d2679",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "ancient_ruins": {
+      "label": "Древние руины",
+      "prompt": "The remains of an old stone structure, broken walls and a broad arch, grass between stones and a clear open foreground. No magic or glowing effects.",
+      "keywords": [
+        "Древние руины",
+        "Разрушенная каменная постройка без магических эффектов."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "ancient_ruins__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "0919a78edecd0b0c0617b217d8b743480380932bf894f2916707715f266cc889",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "0919a78edecd0b0c0617b217d8b743480380932bf894f2916707715f266cc889",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "living_small": {
+      "label": "Жилая комната",
+      "prompt": "A modest living room with simple wooden furniture, a small sitting area, plain plaster walls and a window. No television, electronics or distinct period decoration.",
+      "keywords": [
+        "Жилая комната",
+        "Гостиная или скромное жильё; простая мебель, без электроники."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "living_small__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "2d4041c6cfee21bf1c3821612c53de54ec507c14155bdfdf9600fedd7e7e60c2",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "2d4041c6cfee21bf1c3821612c53de54ec507c14155bdfdf9600fedd7e7e60c2",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "bedroom": {
+      "label": "Спальня",
+      "prompt": "A modest bedroom with a plain bed, bedside table, wooden wardrobe and a simple window. Neutral textiles and plaster walls, no television or appliances.",
+      "keywords": [
+        "Спальня",
+        "Также гостиничный номер и комната постоялого двора; без телевизора и бытовой техники."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "bedroom__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d4ef6f4591fc4b558f1e54c4733606d3c694056b4e40c04c472c98b55ec67786",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "d4ef6f4591fc4b558f1e54c4733606d3c694056b4e40c04c472c98b55ec67786",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "kitchen": {
+      "label": "Домашняя кухня",
+      "prompt": "A simple domestic kitchen corner with a wooden table, crockery and open shelves, a small window and plain walls. Cooking appliances and cooking equipment are outside the frame.",
+      "keywords": [
+        "Домашняя кухня",
+        "Стол, посуда, полки; оборудование для приготовления пищи вне кадра."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "kitchen__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "224fa35674cf4a0acfba2e593a6acabcebe7e7ecba9905411d41b0f18979860b",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "224fa35674cf4a0acfba2e593a6acabcebe7e7ecba9905411d41b0f18979860b",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "office": {
+      "label": "Кабинет",
+      "prompt": "A quiet private office with a plain wooden desk, two visitor chairs, shelves and a window. No computer, logos, trophies or ornate decoration.",
+      "keywords": [
+        "Кабинет",
+        "Рабочий стол и места для собеседников; без компьютера, логотипов и специфического декора."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "office__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "4b317c04a8a5cef174feb10760360beab3a5c80cd780586ef20064968a9f0f19",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "4b317c04a8a5cef174feb10760360beab3a5c80cd780586ef20064968a9f0f19",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "library_archive": {
+      "label": "Библиотека / архив",
+      "prompt": "A modest library or archive with wooden bookshelves, closed books and plain document bundles, a reading table and a window. No legible book titles or labels.",
+      "keywords": [
+        "Библиотека / архив",
+        "Стеллажи, книги и документы; без читаемых надписей."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "library_archive__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "40f883fdd315d268d614dfe525a6d10b27bf6b92b4cdade52872d7cfbdce2998",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "40f883fdd315d268d614dfe525a6d10b27bf6b92b4cdade52872d7cfbdce2998",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "1719f88f4c7f0cb83a87e81d8a3c4c0074bc3ac4803ed43de5ce87dbd7a12a99"
+    },
+    "dining_room": {
+      "label": "Зал кафе / таверны",
+      "prompt": "An empty modest dining hall with simple tables, chairs and a plain counter, a few windows. Neutral wood and plaster, no coffee machines, screens or distinctive period decor.",
+      "keywords": [
+        "Зал кафе / таверны",
+        "Столы, стулья и стойка; без кофемашины, экранов и выраженного декора эпохи."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "dining_room__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "bf16fff44d5c2736910c0c4231ed9465c4fc8c06814e0969018eb8657f671313",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "bf16fff44d5c2736910c0c4231ed9465c4fc8c06814e0969018eb8657f671313",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "d5a0c63b7e957d3c4897a0a9d933ba883e46066c609c60b7d3fac0767612c52a"
+    },
+    "corridor": {
+      "label": "Коридор учреждения",
+      "prompt": "A quiet institutional corridor with plain walls, simple doors and a window at the far end. No signs, noticeboards or specialized equipment.",
+      "keywords": [
+        "Коридор учреждения",
+        "Простые стены и двери; подходит разным учреждениям, без указателей."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "corridor__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5b10a5f0382c340aba6b8da80a8e751ff381f53a3aba9a2fd146c9acfc51f387",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "5b10a5f0382c340aba6b8da80a8e751ff381f53a3aba9a2fd146c9acfc51f387",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "stairwell": {
+      "label": "Лестничная площадка",
+      "prompt": "A plain stair landing with simple stairs and a modest railing, a small window and undecorated walls. No electrical panels, intercoms or signs.",
+      "keywords": [
+        "Лестничная площадка",
+        "Нейтральная лестница; без электрощитов и домофонов."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "stairwell__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "0948966446217e0d9d923dae7e40896ff79c2732b28f120351af31c7651eca6b",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "0948966446217e0d9d923dae7e40896ff79c2732b28f120351af31c7651eca6b",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "basement": {
+      "label": "Подвал",
+      "prompt": "A modest windowless basement with rough stone walls, a few plain wooden crates and a clear aisle. No heaters, electrical panels or modern equipment.",
+      "keywords": [
+        "Подвал",
+        "Каменные стены, обычные ящики; без отопительных приборов и электрического щита."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "basement__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "77b448cef8870a7a1a1710f12093617871fa89f0e860a55a1117e83d89c182d9",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "77b448cef8870a7a1a1710f12093617871fa89f0e860a55a1117e83d89c182d9",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "warehouse": {
+      "label": "Склад",
+      "prompt": "A simple windowless storeroom with wooden shelves, plain crates and cloth sacks, broad open aisle. No forklifts, labels or industrial machinery.",
+      "keywords": [
+        "Склад",
+        "Простые стеллажи, ящики и мешки; без погрузчиков и маркировки."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "warehouse__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "ad03e90874a63423f492040dc498588d858914eef1be9e0302d8710077bf8868",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "ad03e90874a63423f492040dc498588d858914eef1be9e0302d8710077bf8868",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "temple": {
+      "label": "Храм",
+      "prompt": "A quiet stone ceremonial hall with simple columns, a modest central platform and high narrow windows. No icons, religious symbols, inscriptions or recognizable sacred objects.",
+      "keywords": [
+        "Храм",
+        "Каменное пространство для обрядов; без символов определённой религии."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "temple__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "31eb4103f8bd7ab4feda153e2d0f5480ef8d8c41f47b123b46f84cb41d99981e",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "31eb4103f8bd7ab4feda153e2d0f5480ef8d8c41f47b123b46f84cb41d99981e",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "assembly_hall": {
+      "label": "Зал собраний",
+      "prompt": "An empty meeting hall with plain rows of chairs and a simple table, broad windows and restrained walls. No throne, stage or courtroom symbols.",
+      "keywords": [
+        "Зал собраний",
+        "Места для участников собрания; без трона, сцены и судебной символики."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "assembly_hall__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d96c7eae96318c07975c1eb015a587190b5ff6556aa69f8ba90cfc37ffdc5f41",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "d96c7eae96318c07975c1eb015a587190b5ff6556aa69f8ba90cfc37ffdc5f41",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "workshop": {
+      "label": "Мастерская",
+      "prompt": "A modest workshop with a wooden workbench, shelves and a few simple hand tools, a side window. No power tools, wiring or specialized machinery.",
+      "keywords": [
+        "Мастерская",
+        "Верстак, полки и ручные инструменты; без электроинструментов."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "workshop__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "cce0d1154ceaab7ffd377344372966b3e1d7f5761927130ab103c2cbcad69581",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "cce0d1154ceaab7ffd377344372966b3e1d7f5761927130ab103c2cbcad69581",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "sparks"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_ef0def16ab61a1ee",
+      "source_original_sha256": "ee59d5491a3eadf245f58f8838bbf74d7c9773139ba1a18d51a22ba4321fe707"
+    },
+    "forge": {
+      "label": "Кузница",
+      "prompt": "A small forge interior with an anvil, stone hearth, simple blacksmith hand tools and a clear floor area. No modern machinery, sparks or spectacular flames.",
+      "keywords": [
+        "Кузница",
+        "Горн, наковальня и инструменты; встречается в разных эпохах."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "forge__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "20bcfffb745fd3b1c3d01e6729a2816d0d8066e93905cc1e825359b340544516",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "20bcfffb745fd3b1c3d01e6729a2816d0d8066e93905cc1e825359b340544516",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "embers",
+          "sparks"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_ef0def16ab61a1ee",
+      "source_original_sha256": "4c53aff00929902f542dd341ab9a4ae756c18d4d42f395ddb4d53da57d59cddc"
+    },
+    "mine": {
+      "label": "Шахта",
+      "prompt": "An underground mine passage supported by plain timber beams, rough rock walls and a clear earth floor. Machinery, rail carts and electric lighting are outside the frame.",
+      "keywords": [
+        "Шахта",
+        "Проход с деревянными крепями; техника и электрические светильники вне кадра."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "mine__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "fd3086bb101d2da0963d7f32fccc2b0e6ee472106d3882262312ee82e2d16e5f",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "fd3086bb101d2da0963d7f32fccc2b0e6ee472106d3882262312ee82e2d16e5f",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "ff972b5553cbc9816d3170aa92e80063a1bcbcad0b8785aa91782b08381bb46c"
+    },
+    "stable": {
+      "label": "Конюшня / стойла",
+      "prompt": "The interior of a simple stable with wooden stall partitions, straw and a broad clear aisle, light openings in the wall. No horses, other animals or modern equipment.",
+      "keywords": [
+        "Конюшня / стойла",
+        "Деревянные перегородки, сено; без животных и современного оборудования."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "stable__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "25f294293d5e21c07f405d2c3d63dc4138cc8b4502a394e4dfbc77c1de4e6bbe",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "25f294293d5e21c07f405d2c3d63dc4138cc8b4502a394e4dfbc77c1de4e6bbe",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "prison_cell": {
+      "label": "Тюремная камера",
+      "prompt": "A simple prison cell with plain stone walls, an iron barred door, a modest sleeping platform and a small high window. No cameras or technological security devices.",
+      "keywords": [
+        "Тюремная камера",
+        "Стены, решётка и простая лежанка; без технологической охраны."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "prison_cell__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "1cbb39a98c56e155f4ddc04b65f612d8b93796b051fdf38df1f966e5f620607d",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "1cbb39a98c56e155f4ddc04b65f612d8b93796b051fdf38df1f966e5f620607d",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "underground_tunnel": {
+      "label": "Подземный технический тоннель",
+      "prompt": "An old underground masonry tunnel with a narrow shallow drainage channel and a walking ledge, simple arches receding into the distance. No modern pipes, cables or machinery.",
+      "keywords": [
+        "Подземный технический тоннель",
+        "Каменная кладка и водосток; без современных труб и кабелей. Подходит старой канализации."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "underground_tunnel__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5103819d6cef373da95c087898902dbede676ca8c2f83005eaf490cd805c9073",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "5103819d6cef373da95c087898902dbede676ca8c2f83005eaf490cd805c9073",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "d0987d5645311d65b276601908a62dd59fce9c1f65c1e86441ee883dbc3ce86a"
+    },
+    "tent_interior": {
+      "label": "Внутри палатки",
+      "prompt": "The inside of a plain canvas tent with simple fabric walls, a low sleeping mat and a partly open entrance. No branded camping gear or modern equipment.",
+      "keywords": [
+        "Внутри палатки",
+        "Ткань и простое спальное место; без туристического снаряжения конкретной эпохи."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "tent_interior__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "f53e6ad611aca0c80d49a6af71d3f6195a19c53f2b5837d2df2ac5bf4b05ec34",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "f53e6ad611aca0c80d49a6af71d3f6195a19c53f2b5837d2df2ac5bf4b05ec34",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "ship_cabin": {
+      "label": "Корабельная каюта",
+      "prompt": "A small neutral ship cabin with a plain bunk, a compact wooden table and a small round porthole. No navigation equipment or ship-specific machinery.",
+      "keywords": [
+        "Корабельная каюта",
+        "Тесное помещение, простая койка и небольшой иллюминатор; без оборудования конкретного судна."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "ship_cabin__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "94877514ca66b230cc13c87f31ca55583e8d6b739478e490c1a6d810fd0b89b4",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "94877514ca66b230cc13c87f31ca55583e8d6b739478e490c1a6d810fd0b89b4",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "ship_hold": {
+      "label": "Корабельный трюм",
+      "prompt": "A simple ship cargo hold with plain crates, cloth sacks and a broad walking aisle, neutral structural beams. No engines, winches or machinery of a specific vessel.",
+      "keywords": [
+        "Корабельный трюм",
+        "Груз, ящики и проход; без механизмов конкретного судна."
+      ],
+      "pack": "universal",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "ship_hold__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d7f79554d639a2fe0d00293089edf501c33132d85abdc69e99835c84ad59fcb6",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "d7f79554d639a2fe0d00293089edf501c33132d85abdc69e99835c84ad59fcb6",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "3d46e7163d6d89f6675b0081f5af22236720b117ca09c48c2f79fc15a2d219e6"
+    },
+    "small_boat": {
+      "label": "Небольшая лодка на воде",
+      "prompt": "A view from inside a simple wooden rowing boat, one low boat rim at the bottom edge and calm water extending toward a distant shore. No motor or other vessels.",
+      "keywords": [
+        "Небольшая лодка на воде",
+        "Край простой гребной лодки и водная поверхность; без двигателя."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "small_boat__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d3f7e2ac46c32b63b45ba658d073a2c7683c8674f5a3cf42859834eb2f25a655",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "d3f7e2ac46c32b63b45ba658d073a2c7683c8674f5a3cf42859834eb2f25a655",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "rooftop": {
+      "label": "Крыша здания",
+      "prompt": "A simple flat building roof with a low parapet and a broad open surface, an indistinct distant horizon. No antennas, technical equipment or recognizable city skyline.",
+      "keywords": [
+        "Крыша здания",
+        "Простая плоская крыша и низкое ограждение; без антенн и городской панорамы конкретной эпохи."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "rooftop__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a2f8205e3fcf5323e4bcbe81b54392ce6643424ae1d42bdb8d797fadb8a70ca0",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "a2f8205e3fcf5323e4bcbe81b54392ce6643424ae1d42bdb8d797fadb8a70ca0",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "road_checkpoint": {
+      "label": "Дорожный пост",
+      "prompt": "A simple roadside checkpoint with a plain wooden barrier and a small undecorated booth beside an earth road. No weapons, flags, cameras or border signage.",
+      "keywords": [
+        "Дорожный пост",
+        "Простой барьер и небольшая будка; без оружия, камер и пограничных знаков."
+      ],
+      "pack": "universal",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "road_checkpoint__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "7ac264c4aa9d77f62ac2c8ed42b3b558aa5d9fd6efe4d72924c24cc858ea65fd",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "7ac264c4aa9d77f62ac2c8ed42b3b558aa5d9fd6efe4d72924c24cc858ea65fd",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_ef0def16ab61a1ee",
+      "source_original_sha256": "98965b0202bc2dcc914fea59fcdc61e79c861864adeed30ac7b402ef8ff9c34c"
+    },
+    "reception_hall": {
+      "label": "Холл / приёмная",
+      "prompt": "An empty reception hall with a plain counter, a few waiting chairs and a window, restrained neutral architecture. No computers, signs or brands.",
+      "keywords": [
+        "Холл / приёмная",
+        "Стойка и зона ожидания; без компьютеров, указателей и брендов."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "reception_hall__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "b6ecfd1cdcf5dcb5d9f926afaec7b70b332f3fc528ed612600d521d7fe9dc174",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "b6ecfd1cdcf5dcb5d9f926afaec7b70b332f3fc528ed612600d521d7fe9dc174",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "abandoned_room": {
+      "label": "Заброшенное помещение",
+      "prompt": "An abandoned room with damaged plaster walls, a few old plain furniture pieces, dust and a broken window frame. No distinctive technical equipment or dramatic horror props.",
+      "keywords": [
+        "Заброшенное помещение",
+        "Пыль, повреждённые стены и оставленная мебель; без характерной техники."
+      ],
+      "pack": "universal",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "abandoned_room__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "783c056a7b58722df0cc29461833afd40064a1db678866602136a2966e68edbf",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "783c056a7b58722df0cc29461833afd40064a1db678866602136a2966e68edbf",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "dust_motes"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "sailing_ship_deck": {
+      "label": "Палуба парусного корабля",
+      "prompt": "The open wooden deck of a sailing ship, a mast, orderly rigging and plain canvas sails, low railings and sea beyond. Clear walking space, no crew or weapons.",
+      "keywords": [
+        "Палуба парусного корабля",
+        "Дерево, снасти и паруса: требуется парусное судно, жанр свободный."
+      ],
+      "pack": "setting_specific",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "sailing_ship_deck__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "9f40391386671652bc33035e60213a30ae040f755e1ccc12438a97f6ce73ead6",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "9f40391386671652bc33035e60213a30ae040f755e1ccc12438a97f6ce73ead6",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "metal_ship_deck": {
+      "label": "Палуба металлического судна",
+      "prompt": "The open deck of a metal seagoing vessel, plain metal railings, simple bulkhead edges and a view of the sea. No crew, weapons, logos or elaborate machinery.",
+      "keywords": [
+        "Палуба металлического судна",
+        "Металлическое ограждение и палуба: требуется соответствующее судно."
+      ],
+      "pack": "setting_specific",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "metal_ship_deck__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "90abb042f010ad02f38489463be2c83f749ebbe931fe5a539a248c2fe569df07",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "90abb042f010ad02f38489463be2c83f749ebbe931fe5a539a248c2fe569df07",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "railway_platform": {
+      "label": "Железнодорожная платформа",
+      "prompt": "An empty railway platform with a clearly defined platform edge, rails beside it and a plain shelter in the distance. No trains, signs or electronic displays.",
+      "keywords": [
+        "Железнодорожная платформа",
+        "Рельсы и край платформы: требуется железная дорога."
+      ],
+      "pack": "setting_specific",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "railway_platform__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a4c91e25784f9bc046955109b8542625f3ac4992989d77f19704108a929579bf",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "a4c91e25784f9bc046955109b8542625f3ac4992989d77f19704108a929579bf",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "train_car": {
+      "label": "Вагон поезда",
+      "prompt": "The interior of an empty passenger railway carriage, paired seats, a central aisle and broad characteristic train windows. No passengers, logos or readable notices.",
+      "keywords": [
+        "Вагон поезда",
+        "Проход, сиденья и характерные окна: требуется пассажирский поезд."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "train_car__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "0ce701f5fb363a0465bdf051741e694a148f529be5b114ee02ddf207e56d8f91",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "0ce701f5fb363a0465bdf051741e694a148f529be5b114ee02ddf207e56d8f91",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "station_hall": {
+      "label": "Зал вокзала",
+      "prompt": "An empty railway station waiting hall with a high ceiling, simple benches and broad openings leading toward platforms. No electronic boards, shops or readable signs.",
+      "keywords": [
+        "Зал вокзала",
+        "Большой зал ожидания и выходы к платформам; без электронных табло."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "station_hall__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5be60340b7982b73b3e0d9db385a53677955b9174f4991c639b77b0b3dd111c0",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "5be60340b7982b73b3e0d9db385a53677955b9174f4991c639b77b0b3dd111c0",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "metro_car": {
+      "label": "Вагон метро",
+      "prompt": "The interior of an empty subway carriage, seats along the walls, sliding doors and simple grab rails. No passengers, advertising, route maps or lettering.",
+      "keywords": [
+        "Вагон метро",
+        "Места вдоль стен и двери: требуется метро или похожий городской транспорт."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "metro_car__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "aad095cc16e79becbb51d5a33fea3698b2519cfb2bbbafd32a19497cfb8c8bb5",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "aad095cc16e79becbb51d5a33fea3698b2519cfb2bbbafd32a19497cfb8c8bb5",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "car_interior": {
+      "label": "Салон автомобиля",
+      "prompt": "The interior of a parked car viewed from the rear seat, front seats, a simple dashboard and a windshield facing a quiet road. No driver, logos or readable instruments.",
+      "keywords": [
+        "Салон автомобиля",
+        "Передние сиденья и приборная панель: требуется автомобиль."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "car_interior__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "725db084b02085e3ee03da83f0d1fb4828df848d1b4168c9400ec49fc061bd7c",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "725db084b02085e3ee03da83f0d1fb4828df848d1b4168c9400ec49fc061bd7c",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "bus_interior": {
+      "label": "Салон автобуса",
+      "prompt": "The interior of an empty passenger bus, paired rows of seats, a central aisle and large side windows. No passengers, logos or readable notices.",
+      "keywords": [
+        "Салон автобуса",
+        "Ряды сидений и проход: требуется автобус."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "bus_interior__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "e4b3d9e7e3c7cd7c247af847aa165ae829b3fb6213dfe1733c08461014ed5da9",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "e4b3d9e7e3c7cd7c247af847aa165ae829b3fb6213dfe1733c08461014ed5da9",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "airplane_cabin": {
+      "label": "Салон самолёта",
+      "prompt": "The interior of an empty passenger airplane cabin, orderly seats, a central aisle and small oval windows. No passengers, branding or legible safety text.",
+      "keywords": [
+        "Салон самолёта",
+        "Ряды кресел и небольшие овальные окна: требуется пассажирский самолёт."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "airplane_cabin__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "c8f3ed81f1a458ad71c89e8aab735c4eb1281b956973e41b509b47c39c0bee26",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "aircraft",
+        "artwork_sha256": "c8f3ed81f1a458ad71c89e8aab735c4eb1281b956973e41b509b47c39c0bee26",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "carriage_interior": {
+      "label": "Конная повозка",
+      "prompt": "A view from inside a plain wooden horse-drawn carriage with a simple bench and low side panels, a quiet landscape beyond. Horses and drivers are outside the frame.",
+      "keywords": [
+        "Конная повозка",
+        "Деревянное сиденье и край повозки: требуется соответствующий транспорт."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "carriage_interior__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "693c84adf5cb3ca0890f46a2b18413da5cf21f27dee8e8a6bf181f866fa8c8f7",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "693c84adf5cb3ca0890f46a2b18413da5cf21f27dee8e8a6bf181f866fa8c8f7",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "639d08542e0127a05cca8deaa6e9102445021f6783fc5ccc1f29bf9e443cda97"
+    },
+    "airport_terminal": {
+      "label": "Аэропорт",
+      "prompt": "An empty airport terminal with broad glass windows, simple waiting seats and open circulation space. No aircraft in frame, brands, electronic boards or readable signage.",
+      "keywords": [
+        "Аэропорт",
+        "Зал терминала: требуется авиасообщение, без брендов и надписей."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "airport_terminal__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "976ae4f370f875ad4d2f764f1db6220f66023af129b06b8f485040ac43e9dc61",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "976ae4f370f875ad4d2f764f1db6220f66023af129b06b8f485040ac43e9dc61",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "fuel_station": {
+      "label": "Заправка",
+      "prompt": "An empty fuel station with simple fuel pumps and a plain canopy, a clear forecourt. No vehicles, brand logos, price panels or lettering.",
+      "keywords": [
+        "Заправка",
+        "Топливные колонки и навес: требуется транспорт с соответствующим топливом."
+      ],
+      "pack": "setting_specific",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "fuel_station__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5294b470c63f212fcc95dedd9f4fd2b0450ff771d942787a895dd1893eb1190c",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "5294b470c63f212fcc95dedd9f4fd2b0450ff771d942787a895dd1893eb1190c",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "underground_parking": {
+      "label": "Подземная парковка",
+      "prompt": "An empty underground parking garage with concrete columns, a simple ramp and clearly spaced parking bays. No cars, signs or readable painted numbers.",
+      "keywords": [
+        "Подземная парковка",
+        "Пандус, колонны и парковочные места; автомобили вне кадра."
+      ],
+      "pack": "setting_specific",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "underground_parking__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "bcaa32a6f533e8491e39215b3cd33e212df616c412c746bc3285ce6309b3917d",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "bcaa32a6f533e8491e39215b3cd33e212df616c412c746bc3285ce6309b3917d",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "elevator": {
+      "label": "Лифт",
+      "prompt": "The interior of an empty mechanical elevator with plain metal walls and closed sliding doors, a small unlabeled button panel. No mirrors reflecting people or readable numbers.",
+      "keywords": [
+        "Лифт",
+        "Кабина с характерными дверями: требуется механический лифт."
+      ],
+      "pack": "setting_specific",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "elevator__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a4f393dc7765e13e5e1e86acccfa3a1865f444bb4ff8abf12626f3be6410d718",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "a4f393dc7765e13e5e1e86acccfa3a1865f444bb4ff8abf12626f3be6410d718",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "hospital_room": {
+      "label": "Больничная палата",
+      "prompt": "An empty hospital room with a medical bed, a bedside cabinet, a modest medical stand and a window. No patients, staff, branding or readable labels.",
+      "keywords": [
+        "Больничная палата",
+        "Больничная кровать и медицинское оснащение: требуется соответствующее учреждение."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "hospital_room__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "da7a2bfd82998c68c894ecfaf52fe97ff837e2a453e9adb3cdcca61e651833ae",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "da7a2bfd82998c68c894ecfaf52fe97ff837e2a453e9adb3cdcca61e651833ae",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "06533f6354a7fbc1a3a16663b71c6f6c9ffc11a6c20733a4d3c4a2537bbab73a"
+    },
+    "operating_room": {
+      "label": "Операционная",
+      "prompt": "An empty operating room with an operating table, overhead surgical lamps and a few restrained medical instruments. Clean plain surfaces, no people, blood or lettering.",
+      "keywords": [
+        "Операционная",
+        "Операционный стол и специальные светильники: требуется соответствующая медицина."
+      ],
+      "pack": "setting_specific",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "operating_room__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "8d98a939594e8bcb5963f32d2b446d5e2db1fc72b530154ee39fd331555f59b5",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "8d98a939594e8bcb5963f32d2b446d5e2db1fc72b530154ee39fd331555f59b5",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "494aaa7c0dcaff0a6fd98e10d08d797f776ae12c9bffeca35df0fcb268dbee83"
+    },
+    "laboratory": {
+      "label": "Лаборатория",
+      "prompt": "An empty laboratory with broad work surfaces, a few glass vessels and simple scientific instruments, a side window. No labels, brands or text on screens.",
+      "keywords": [
+        "Лаборатория",
+        "Рабочие поверхности, стеклянная посуда и приборы; без брендов и экранных надписей."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "laboratory__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "645f31a92dc7a45ea34abc0c108131254e7f9f1485dcae638271a6b790ebac31",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "645f31a92dc7a45ea34abc0c108131254e7f9f1485dcae638271a6b790ebac31",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "sparks"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "factory_floor": {
+      "label": "Заводской цех",
+      "prompt": "An empty factory hall with several large industrial machines, a broad safe walking aisle and high windows. No workers, brands, warning signs or excessive pipes.",
+      "keywords": [
+        "Заводской цех",
+        "Крупные станки и рабочие проходы: требуется промышленное производство."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "factory_floor__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "dbb24663accf18033c8040e1a0dd39e1fc0d6f2b86503a419e540491a252250c",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "dbb24663accf18033c8040e1a0dd39e1fc0d6f2b86503a419e540491a252250c",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "sparks"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "server_room": {
+      "label": "Серверная",
+      "prompt": "An empty server room with orderly racks of computing equipment and a clear aisle, a few restrained indicator lights. No labels, cables cluttering the floor or people.",
+      "keywords": [
+        "Серверная",
+        "Стойки вычислительного оборудования: требуется соответствующая технология."
+      ],
+      "pack": "setting_specific",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "server_room__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "dea3c0632f341f3c0db3e4fdbf3b23648fc1fe1370cf574ae9078924c5b8b41b",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "dea3c0632f341f3c0db3e4fdbf3b23648fc1fe1370cf574ae9078924c5b8b41b",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "sparks"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_ef0def16ab61a1ee",
+      "source_original_sha256": "2bb74ea8049a56b6c381f587c402b92e603de6091c7ddd57860990b8486b7b2e"
+    },
+    "museum": {
+      "label": "Музей",
+      "prompt": "A quiet museum gallery with a few glass cases and simple plinths holding small neutral pottery pieces, a broad walking area and high windows. No famous artworks or captions.",
+      "keywords": [
+        "Музей",
+        "Витрины и постаменты; экспонаты небольшие и нейтральные."
+      ],
+      "pack": "setting_specific",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "museum__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "ddad4154ada84809d343449ec0c303eff5ded0ed0f885149e11c82f1960d5cca",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "ddad4154ada84809d343449ec0c303eff5ded0ed0f885149e11c82f1960d5cca",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "theater": {
+      "label": "Театр",
+      "prompt": "An empty theater viewed from the rear seating area toward a simple stage and plain curtains, restrained rows of seats. No performers, modern stage equipment or lettering.",
+      "keywords": [
+        "Театр",
+        "Сцена, занавес и зрительские места; без техники конкретной эпохи."
+      ],
+      "pack": "setting_specific",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "theater__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "b465b9dde1f21ecbbfb4b2ba8307b80ca69f527ee4ca3abef431eda0446a4d1b",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sealed",
+        "artwork_sha256": "b465b9dde1f21ecbbfb4b2ba8307b80ca69f527ee4ca3abef431eda0446a4d1b",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "castle_courtyard": {
+      "label": "Двор крепости",
+      "prompt": "An empty stone fortress courtyard with plain defensive walls, a broad arched gate and a clear paved foreground. No banners, crests, soldiers or magical effects.",
+      "keywords": [
+        "Двор крепости",
+        "Каменные укрепления: подходит историческому сюжету, фэнтези или современной крепости-музею."
+      ],
+      "pack": "setting_specific",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "castle_courtyard__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "8ee8794863596d0cdd314359d31633ac1c3bbdeb0226d45c5888c93337c3c649",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "8ee8794863596d0cdd314359d31633ac1c3bbdeb0226d45c5888c93337c3c649",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "castle_wall": {
+      "label": "Крепостная стена",
+      "prompt": "A walkway along a stone fortress wall with simple battlements and a broad distant landscape. No flags, soldiers, heraldry or magical effects.",
+      "keywords": [
+        "Крепостная стена",
+        "Зубцы и проход вдоль стены: требуется соответствующая архитектура."
+      ],
+      "pack": "setting_specific",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "castle_wall__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "cb28d28696e82c1925aaa1dd2f2a68696ea2152af04f7c145a1c2707d2b2be9c",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "cb28d28696e82c1925aaa1dd2f2a68696ea2152af04f7c145a1c2707d2b2be9c",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "hangar": {
+      "label": "Ангар",
+      "prompt": "A large empty hangar with broad structural beams, wide closed doors and a clear floor. No aircraft, vehicles, readable signs or equipment fixing a specific transport type.",
+      "keywords": [
+        "Ангар",
+        "Крупное помещение и широкие ворота; транспорт вне кадра, чтобы не закреплять его тип."
+      ],
+      "pack": "setting_specific",
+      "environment": "enclosed",
+      "worlds": [],
+      "file": "hangar__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "bf38ac316e6afce31d0027faa1a83145d748c1ece4f016f09cdd7ce145cb256c",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "bf38ac316e6afce31d0027faa1a83145d748c1ece4f016f09cdd7ce145cb256c",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [
+          "sparks"
+        ],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "mage_study": {
+      "label": "Кабинет мага",
+      "prompt": "A modest magician's study with bookshelves, a worktable and a few visibly magical floating geometric objects with restrained light, a narrow window. No characters, inscriptions or ornate clutter.",
+      "keywords": [
+        "Кабинет мага",
+        "Видимые магические предметы: требуется магия в мире; жанр свободный."
+      ],
+      "pack": "unusual_world",
+      "environment": "windowed",
+      "worlds": [],
+      "file": "mage_study__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "064c11a6362d322986518cdf0d8a645b7a21bb810e6832b2e191644db3232402",
+      "time_mode": "windowed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "sheltered",
+        "artwork_sha256": "064c11a6362d322986518cdf0d8a645b7a21bb810e6832b2e191644db3232402",
+        "weather_mode": "masked",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      },
+      "source_run": "run_regen_96ff0c17e440f126",
+      "source_original_sha256": "44a437cde8732d6c23f1d4ccbde927ea821fde63500031e2c4eda3600c6d9687"
+    },
+    "future_city": {
+      "label": "Футуристическая улица",
+      "prompt": "An empty futuristic street with clearly advanced curved architecture, a few restrained integrated light strips and a broad walkway. No vehicles, holographic advertisements or readable text.",
+      "keywords": [
+        "Футуристическая улица",
+        "Заметно необычная технологическая архитектура."
+      ],
+      "pack": "unusual_world",
+      "environment": "outdoor",
+      "worlds": [],
+      "file": "future_city__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a974b9c27208f9fb8822a439a078762f2429e1e236a3fdf414a63d60ccc4f4ad",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "open",
+        "artwork_sha256": "a974b9c27208f9fb8822a439a078762f2429e1e236a3fdf414a63d60ccc4f4ad",
+        "weather_mode": "full",
+        "weather_allowed": [
+          "rain",
+          "storm",
+          "fog",
+          "snow"
+        ],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": true,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "space_station_corridor": {
+      "label": "Коридор космической станции",
+      "prompt": "An empty space station corridor with sealed bulkhead doors, modular wall panels and restrained integrated lighting. No windows showing daylight, crew or readable signs.",
+      "keywords": [
+        "Коридор космической станции",
+        "Герметичные переборки и модульная конструкция."
+      ],
+      "pack": "unusual_world",
+      "environment": "space",
+      "worlds": [],
+      "file": "space_station_corridor__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "786c5e017206f2cda196475cc57684f8029c4e0ae3e83898125e9af332c86cba",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "space",
+        "artwork_sha256": "786c5e017206f2cda196475cc57684f8029c4e0ae3e83898125e9af332c86cba",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "spaceship_bridge": {
+      "label": "Мостик космического корабля",
+      "prompt": "An empty spaceship bridge with simple control consoles and a broad forward window showing dark space and distant stars. No crew, planets filling the window or text on displays.",
+      "keywords": [
+        "Мостик космического корабля",
+        "Пульты и обзор космоса: требуется космический корабль."
+      ],
+      "pack": "unusual_world",
+      "environment": "space",
+      "worlds": [],
+      "file": "spaceship_bridge__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "2dd48e2db3711661e13dec35715a6cbabe804c881b5ed9244f7f7a40ce60e287",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "space",
+        "artwork_sha256": "2dd48e2db3711661e13dec35715a6cbabe804c881b5ed9244f7f7a40ce60e287",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "space_observation_deck": {
+      "label": "Обзорная палуба станции",
+      "prompt": "An empty space station observation lounge with a broad panoramic window showing dark space and distant stars, simple seating and no control consoles. No people or screen text.",
+      "keywords": [
+        "Обзорная палуба станции",
+        "Панорамный обзор космоса, без пультов управления."
+      ],
+      "pack": "unusual_world",
+      "environment": "space",
+      "worlds": [],
+      "file": "space_observation_deck__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "1ea763c139b623f769299f557a3bd3306641c9c7579773ff248b0e9f13278626",
+      "time_mode": "fixed",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "space",
+        "artwork_sha256": "1ea763c139b623f769299f557a3bd3306641c9c7579773ff248b0e9f13278626",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    },
+    "alien_planet": {
+      "label": "Поверхность чужой планеты",
+      "prompt": "An empty alien landscape with unusual broad rock formations and simple unfamiliar plant silhouettes, an open foreground and distant horizon. No creatures, buildings or glowing story artifacts.",
+      "keywords": [
+        "Поверхность чужой планеты",
+        "Явно необычная геология и растительность, без существ."
+      ],
+      "pack": "unusual_world",
+      "environment": "alien",
+      "worlds": [],
+      "file": "alien_planet__day.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "c688729793775c98db1689825d4ec88ea36636d4b50543c88061cfa241c5a7ac",
+      "time_mode": "outdoor",
+      "effect_profile": {
+        "schema_version": 1,
+        "setting": "alien",
+        "artwork_sha256": "c688729793775c98db1689825d4ec88ea36636d4b50543c88061cfa241c5a7ac",
+        "weather_mode": "none",
+        "weather_allowed": [],
+        "weather_masks": [],
+        "fireflies_habitat": false,
+        "ash_fallout": false,
+        "local_effects": [],
+        "effect_regions": {},
+        "event_flash": true
+      }
+    }
+  },
+  "fallback": {
+    "id": "abstract_space",
+    "label": "Нейтральная подложка",
+    "description": "An abstract continuous digital gouache color field, broad soft matte shapes in muted slate gray, dusty taupe and desaturated blue, subtle hand-painted texture and gentle tonal depth. No recognizable room, architecture, objects, landscape, horizon, sun, sky or directional lighting. The painting fills the entire frame with calm balanced shapes and a simple foreground.",
+    "lighting": "enclosed",
+    "environment": "enclosed",
+    "time_mode": "fixed",
+    "group": "fallback",
+    "is_fallback": true,
+    "file": "abstract_space__day.webp",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "fallback",
+      "artwork_sha256": "f50eef0218ecc793a57184b89f0b792837878bbcd7a7ce7056f813569b62e1bd",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": false
+    },
+    "width": 1280,
+    "height": 720,
+    "sha256": "f50eef0218ecc793a57184b89f0b792837878bbcd7a7ce7056f813569b62e1bd",
+    "source_run": "run_regen_96ff0c17e440f126",
+    "source_original_sha256": "5e1cb9b19767728846c77d52f82a6ca8cef1147a4c0ad3749a087964e7ca7e29"
+  },
+  "source_runs": [
+    "run_ee5abb7a38a38d7e",
+    "run_regen_96ff0c17e440f126",
+    "run_regen_ef0def16ab61a1ee"
+  ]
+}

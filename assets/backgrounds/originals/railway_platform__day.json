@@ -1,0 +1,18 @@
+{
+  "signature": "6736e996bb814d3c9f1eef07b2acc2266f3aacc00a84353866ac2e9a51f5978d",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "railway_platform",
+    "time": "day",
+    "seed": 2822711320458756036,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. An empty railway platform with a clearly defined platform edge, rails beside it and a plain shelter in the distance. No trains, signs or electronic displays. Daytime with clear neutral daylight, balanced natural colors, readable shadows and a simple sky.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "4631776dca8223842b483cc0814ba527a47349821fe2534d5dc73b40644c1004",
+  "created_utc": "2026-10-14T19:09:06Z"
+}

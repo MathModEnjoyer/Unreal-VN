@@ -1,0 +1,2180 @@
+[
+  {
+    "id": "forest_path",
+    "label": "Лесная тропа",
+    "lighting": "outdoor",
+    "description": "A winding earth footpath between tall trees, layered green foliage and tree trunks, a clear open foreground. Timeless woodland with no buildings or equipment.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "421dfc9a8040c90b8e226e8369af90099568dd0d5dd1c28783ac445555e633a1",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.02,
+            0.35
+          ],
+          [
+            0.3,
+            0.35
+          ],
+          [
+            0.3,
+            0.66
+          ],
+          [
+            0.02,
+            0.85
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "forest_clearing",
+    "label": "Лесная поляна",
+    "lighting": "outdoor",
+    "description": "A broad grassy clearing surrounded by trees, a simple opening between leafy canopies, distant woodland and an uncluttered foreground.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "eef9ceddfcb448fd2500d6b3e6e797add23100966cfa69fa592bec2398bfc1dc",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.05,
+            0.55
+          ],
+          [
+            0.95,
+            0.55
+          ],
+          [
+            0.95,
+            0.92
+          ],
+          [
+            0.05,
+            0.92
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "country_road",
+    "label": "Грунтовая дорога",
+    "lighting": "outdoor",
+    "description": "An unpaved country road between low grassy banks and distant trees. No vehicles, road signs, pavement, utility poles or power lines.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "976ab4b2e46d720c9ea0849e621a669859992aed86af30832776a78257614577",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "meadow",
+    "label": "Луг",
+    "lighting": "outdoor",
+    "description": "A wide open meadow with soft grasses, low rolling hills and a few distant trees, simple spacious foreground.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "9a708a51887b2c8295cdfce387f598e132d89e0efbda1b5f6db4fd2f5048a76e",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.03,
+            0.67
+          ],
+          [
+            0.97,
+            0.67
+          ],
+          [
+            0.97,
+            0.95
+          ],
+          [
+            0.03,
+            0.95
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "riverbank",
+    "label": "Берег реки",
+    "lighting": "outdoor",
+    "description": "A gently flowing river seen from its grassy bank, stones near the water and distant trees. No architecture or machinery.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "8d72aac8ab2008f5a47b1057c87339f6b50bbf2bec86bd08cf1906a14b56f23f",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.08,
+            0.66
+          ],
+          [
+            0.92,
+            0.6
+          ],
+          [
+            0.96,
+            0.89
+          ],
+          [
+            0.08,
+            0.89
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "lakeshore",
+    "label": "Берег озера",
+    "lighting": "outdoor",
+    "description": "A quiet lake seen from a natural grassy shore, calm water and a distant wooded opposite bank. No buildings or boats.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "a5904b4f3017c2f9d6006c4d86cda76cb359280c1df4c8b684f99d5858d4670e",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.03,
+            0.86
+          ],
+          [
+            0.97,
+            0.86
+          ],
+          [
+            0.97,
+            0.97
+          ],
+          [
+            0.03,
+            0.97
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "sandy_beach",
+    "label": "Песчаный пляж",
+    "lighting": "outdoor",
+    "description": "An empty sandy beach, a calm sea and a broad horizon, a few rocks at the edge. No umbrellas, sunbeds or resort equipment.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "f9319532c042fbd15b3c8ed15fb69e5a2c93d32e6d965442cd2f27dbd86bcb0b",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "rocky_coast",
+    "label": "Скалистое побережье",
+    "lighting": "outdoor",
+    "description": "A rugged coastal cliff overlooking the sea, broad rock formations and a narrow safe footpath in the foreground. No buildings.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "037d1c1395d996471b3ae33085aa31b34d7829811704a841b8b784a352280da8",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "mountain_pass",
+    "label": "Горный перевал",
+    "lighting": "outdoor",
+    "description": "A stone footpath through a mountain pass between broad rocky slopes, distant mountain silhouettes. No buildings, vehicles or ice.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "290bb83162b90d01c8c0435e730bf341d4452fe0b972eb96a21f00af2510f250",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "cave",
+    "label": "Пещера",
+    "lighting": "enclosed",
+    "description": "The interior of a natural rock cave, broad stone walls, a flat open foreground and a passage receding into darkness. No magical crystals or equipment.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "01d373227e220e577da63ddcfe358a72c7d57a8124082faf16b07c3b030be53e",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "swamp",
+    "label": "Болото",
+    "lighting": "outdoor",
+    "description": "A still wetland with shallow pools, reeds and twisted trees, broad patches of vegetation and a firm foreground bank. Clear air with no fog.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "2e45bb12196058ace2182bd62a0c80d6a16097287a80d69a6d1ae154abf9975a",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.01,
+            0.25
+          ],
+          [
+            0.16,
+            0.25
+          ],
+          [
+            0.2,
+            0.68
+          ],
+          [
+            0.01,
+            0.72
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "old_bridge",
+    "label": "Старый мост",
+    "lighting": "outdoor",
+    "description": "A modest old stone bridge across a small river, viewed from its approach, low stone parapets and nearby trees. No road markings or modern fittings.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "f6f23e2236d173b2849acc9ed04f7be3b22a193339c8d92020970676f72a6354",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "desert",
+    "label": "Пустыня",
+    "lighting": "outdoor",
+    "description": "An open desert with low sand dunes and a few broad weathered rock formations, spacious foreground and distant horizon. No settlements.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "f46be5d55fb41afbb18b9f3506bb7bb6f92f03e5e581ef6f453a52db51d12868",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "camp",
+    "label": "Походный лагерь",
+    "lighting": "outdoor",
+    "description": "A small campsite with one plain canvas tent and a simple stone fire ring, surrounded by trees. No branded camping gear, plastics or modern equipment.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "e3c645c7569294e8f046bf2aebb3f25025f68fc7b6b4decf0cc0a01e5903a56e",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [
+        "embers"
+      ],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.05,
+            0.11
+          ],
+          [
+            0.91,
+            0.11
+          ],
+          [
+            0.91,
+            0.22
+          ],
+          [
+            0.05,
+            0.22
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "settlement_street",
+    "label": "Улица поселения",
+    "lighting": "outdoor",
+    "description": "A quiet street lined with modest low houses of plain plaster and wood, simple doors and windows. No cars, utility wires, signs or ornate period-specific architecture.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "db555b481785a3a102ec66503148138a84eb68af87b904a4f6207335d9ba802e",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "narrow_alley",
+    "label": "Узкий переулок",
+    "lighting": "outdoor",
+    "description": "A narrow empty alley between plain plaster and stone walls, simple doorways and a bend in the passage. No signs, cables or vehicles.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "61d282ecfee1580bd67f3ab18764d6c0d42390afec455b75d368bb056b28c0bb",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "courtyard",
+    "label": "Жилой двор",
+    "lighting": "outdoor",
+    "description": "A small residential courtyard enclosed by simple plaster houses, a plain wooden bench and sparse plants. Neutral architecture with no modern utilities.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "7ab408d767e8b45bb7e9d49f34d640e1ebd1f69e9d9d4fbd039009fc2f2294a6",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "town_square",
+    "label": "Городская площадь",
+    "lighting": "outdoor",
+    "description": "An open town square bordered by modest plain buildings, simple stone paving and a few trees. No monuments, traffic, signs or recognizable landmarks.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "5bb122d86c1ec0f0a4224fb5fa263c4a933d4e39b751964b2d70b29810555f36",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "market",
+    "label": "Рынок",
+    "lighting": "outdoor",
+    "description": "An empty market with simple wooden stalls and cloth awnings, a broad walking aisle and a few baskets. No vendors, price labels or modern equipment.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "92530636af503083b4d2d2fab2e2cbe95989cc19c070199955c8e4a1a46e557c",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "park",
+    "label": "Парк",
+    "lighting": "outdoor",
+    "description": "A quiet park with a curving path, leafy trees and a plain wooden bench. No playground equipment, signs or street lamps of a specific era.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "1dc8c40a8de07de150f14e9b6a7519addc2a963d7c63e91adf5c93a50afb573e",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": true,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {
+        "fireflies": [
+          [
+            0.03,
+            0.22
+          ],
+          [
+            0.88,
+            0.22
+          ],
+          [
+            0.88,
+            0.47
+          ],
+          [
+            0.03,
+            0.47
+          ]
+        ]
+      },
+      "event_flash": true
+    }
+  },
+  {
+    "id": "embankment",
+    "label": "Набережная",
+    "lighting": "outdoor",
+    "description": "A simple pedestrian embankment beside a river, low stone railing and a broad waterfront walkway. No vehicles, famous skyline or transport infrastructure.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "60086ce53921cb03a6cb984610e86444dc2d5c364980908378df5a8dd16179b8",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "harbor_quay",
+    "label": "Причал",
+    "lighting": "outdoor",
+    "description": "A quiet small quay with simple mooring posts, coiled ropes, wooden planks and still harbor water. No ships, cranes or cargo machinery in frame.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "2be0e7197461c1c8af68a0811692172c98bcd8c709b5a381ad69c5dbd0602d85",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "cemetery",
+    "label": "Кладбище",
+    "lighting": "outdoor",
+    "description": "A quiet cemetery path between simple weathered stone markers and sparse trees. Blank undecorated stones with no lettering, crosses or religious symbols.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "5d359f044d4f92eb51970925a8e48fa49b54255cf98360535a152afe408d2679",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "ancient_ruins",
+    "label": "Древние руины",
+    "lighting": "outdoor",
+    "description": "The remains of an old stone structure, broken walls and a broad arch, grass between stones and a clear open foreground. No magic or glowing effects.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "0919a78edecd0b0c0617b217d8b743480380932bf894f2916707715f266cc889",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "living_small",
+    "label": "Жилая комната",
+    "lighting": "windowed",
+    "description": "A modest living room with simple wooden furniture, a small sitting area, plain plaster walls and a window. No television, electronics or distinct period decoration.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "2d4041c6cfee21bf1c3821612c53de54ec507c14155bdfdf9600fedd7e7e60c2",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "bedroom",
+    "label": "Спальня",
+    "lighting": "windowed",
+    "description": "A modest bedroom with a plain bed, bedside table, wooden wardrobe and a simple window. Neutral textiles and plaster walls, no television or appliances.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "d4ef6f4591fc4b558f1e54c4733606d3c694056b4e40c04c472c98b55ec67786",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "kitchen",
+    "label": "Домашняя кухня",
+    "lighting": "windowed",
+    "description": "A simple domestic kitchen corner with a wooden table, crockery and open shelves, a small window and plain walls. Cooking appliances and cooking equipment are outside the frame.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "224fa35674cf4a0acfba2e593a6acabcebe7e7ecba9905411d41b0f18979860b",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "office",
+    "label": "Кабинет",
+    "lighting": "windowed",
+    "description": "A quiet private office with a plain wooden desk, two visitor chairs, shelves and a window. No computer, logos, trophies or ornate decoration.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "4b317c04a8a5cef174feb10760360beab3a5c80cd780586ef20064968a9f0f19",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "library_archive",
+    "label": "Библиотека / архив",
+    "lighting": "windowed",
+    "description": "A modest library or archive with wooden bookshelves, closed books and plain document bundles, a reading table and a window. No legible book titles or labels.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "40f883fdd315d268d614dfe525a6d10b27bf6b92b4cdade52872d7cfbdce2998",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "dining_room",
+    "label": "Зал кафе / таверны",
+    "lighting": "windowed",
+    "description": "An empty modest dining hall with simple tables, chairs and a plain counter, a few windows. Neutral wood and plaster, no coffee machines, screens or distinctive period decor.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "bf16fff44d5c2736910c0c4231ed9465c4fc8c06814e0969018eb8657f671313",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "corridor",
+    "label": "Коридор учреждения",
+    "lighting": "windowed",
+    "description": "A quiet institutional corridor with plain walls, simple doors and a window at the far end. No signs, noticeboards or specialized equipment.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "5b10a5f0382c340aba6b8da80a8e751ff381f53a3aba9a2fd146c9acfc51f387",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "stairwell",
+    "label": "Лестничная площадка",
+    "lighting": "windowed",
+    "description": "A plain stair landing with simple stairs and a modest railing, a small window and undecorated walls. No electrical panels, intercoms or signs.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "0948966446217e0d9d923dae7e40896ff79c2732b28f120351af31c7651eca6b",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "basement",
+    "label": "Подвал",
+    "lighting": "enclosed",
+    "description": "A modest windowless basement with rough stone walls, a few plain wooden crates and a clear aisle. No heaters, electrical panels or modern equipment.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "77b448cef8870a7a1a1710f12093617871fa89f0e860a55a1117e83d89c182d9",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "warehouse",
+    "label": "Склад",
+    "lighting": "enclosed",
+    "description": "A simple windowless storeroom with wooden shelves, plain crates and cloth sacks, broad open aisle. No forklifts, labels or industrial machinery.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "ad03e90874a63423f492040dc498588d858914eef1be9e0302d8710077bf8868",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "temple",
+    "label": "Храм",
+    "lighting": "windowed",
+    "description": "A quiet stone ceremonial hall with simple columns, a modest central platform and high narrow windows. No icons, religious symbols, inscriptions or recognizable sacred objects.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "31eb4103f8bd7ab4feda153e2d0f5480ef8d8c41f47b123b46f84cb41d99981e",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "assembly_hall",
+    "label": "Зал собраний",
+    "lighting": "windowed",
+    "description": "An empty meeting hall with plain rows of chairs and a simple table, broad windows and restrained walls. No throne, stage or courtroom symbols.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "d96c7eae96318c07975c1eb015a587190b5ff6556aa69f8ba90cfc37ffdc5f41",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "workshop",
+    "label": "Мастерская",
+    "lighting": "windowed",
+    "description": "A modest workshop with a wooden workbench, shelves and a few simple hand tools, a side window. No power tools, wiring or specialized machinery.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "cce0d1154ceaab7ffd377344372966b3e1d7f5761927130ab103c2cbcad69581",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "sparks"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "forge",
+    "label": "Кузница",
+    "lighting": "enclosed",
+    "description": "A small forge interior with an anvil, stone hearth, simple blacksmith hand tools and a clear floor area. No modern machinery, sparks or spectacular flames.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "20bcfffb745fd3b1c3d01e6729a2816d0d8066e93905cc1e825359b340544516",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "embers",
+        "sparks"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "mine",
+    "label": "Шахта",
+    "lighting": "enclosed",
+    "description": "An underground mine passage supported by plain timber beams, rough rock walls and a clear earth floor. Machinery, rail carts and electric lighting are outside the frame.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "fd3086bb101d2da0963d7f32fccc2b0e6ee472106d3882262312ee82e2d16e5f",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "stable",
+    "label": "Конюшня / стойла",
+    "lighting": "windowed",
+    "description": "The interior of a simple stable with wooden stall partitions, straw and a broad clear aisle, light openings in the wall. No horses, other animals or modern equipment.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "25f294293d5e21c07f405d2c3d63dc4138cc8b4502a394e4dfbc77c1de4e6bbe",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "prison_cell",
+    "label": "Тюремная камера",
+    "lighting": "windowed",
+    "description": "A simple prison cell with plain stone walls, an iron barred door, a modest sleeping platform and a small high window. No cameras or technological security devices.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "1cbb39a98c56e155f4ddc04b65f612d8b93796b051fdf38df1f966e5f620607d",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "underground_tunnel",
+    "label": "Подземный тоннель",
+    "lighting": "enclosed",
+    "description": "An old underground masonry tunnel with a narrow shallow drainage channel and a walking ledge, simple arches receding into the distance. No modern pipes, cables or machinery.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "5103819d6cef373da95c087898902dbede676ca8c2f83005eaf490cd805c9073",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "tent_interior",
+    "label": "Внутри палатки",
+    "lighting": "windowed",
+    "description": "The inside of a plain canvas tent with simple fabric walls, a low sleeping mat and a partly open entrance. No branded camping gear or modern equipment.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "f53e6ad611aca0c80d49a6af71d3f6195a19c53f2b5837d2df2ac5bf4b05ec34",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "ship_cabin",
+    "label": "Корабельная каюта",
+    "lighting": "windowed",
+    "description": "A small neutral ship cabin with a plain bunk, a compact wooden table and a small round porthole. No navigation equipment or ship-specific machinery.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "94877514ca66b230cc13c87f31ca55583e8d6b739478e490c1a6d810fd0b89b4",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "ship_hold",
+    "label": "Корабельный трюм",
+    "lighting": "enclosed",
+    "description": "A simple ship cargo hold with plain crates, cloth sacks and a broad walking aisle, neutral structural beams. No engines, winches or machinery of a specific vessel.",
+    "group": "universal",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "d7f79554d639a2fe0d00293089edf501c33132d85abdc69e99835c84ad59fcb6",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "small_boat",
+    "label": "Небольшая лодка на воде",
+    "lighting": "outdoor",
+    "description": "A view from inside a simple wooden rowing boat, one low boat rim at the bottom edge and calm water extending toward a distant shore. No motor or other vessels.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "d3f7e2ac46c32b63b45ba658d073a2c7683c8674f5a3cf42859834eb2f25a655",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "rooftop",
+    "label": "Крыша здания",
+    "lighting": "outdoor",
+    "description": "A simple flat building roof with a low parapet and a broad open surface, an indistinct distant horizon. No antennas, technical equipment or recognizable city skyline.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "a2f8205e3fcf5323e4bcbe81b54392ce6643424ae1d42bdb8d797fadb8a70ca0",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "road_checkpoint",
+    "label": "Дорожный пост",
+    "lighting": "outdoor",
+    "description": "A simple roadside checkpoint with a plain wooden barrier and a small undecorated booth beside an earth road. No weapons, flags, cameras or border signage.",
+    "group": "universal",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "7ac264c4aa9d77f62ac2c8ed42b3b558aa5d9fd6efe4d72924c24cc858ea65fd",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "reception_hall",
+    "label": "Холл / приёмная",
+    "lighting": "windowed",
+    "description": "An empty reception hall with a plain counter, a few waiting chairs and a window, restrained neutral architecture. No computers, signs or brands.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "b6ecfd1cdcf5dcb5d9f926afaec7b70b332f3fc528ed612600d521d7fe9dc174",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "abandoned_room",
+    "label": "Заброшенное помещение",
+    "lighting": "windowed",
+    "description": "An abandoned room with damaged plaster walls, a few old plain furniture pieces, dust and a broken window frame. No distinctive technical equipment or dramatic horror props.",
+    "group": "universal",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "783c056a7b58722df0cc29461833afd40064a1db678866602136a2966e68edbf",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "dust_motes"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "sailing_ship_deck",
+    "label": "Палуба парусного корабля",
+    "lighting": "outdoor",
+    "description": "The open wooden deck of a sailing ship, a mast, orderly rigging and plain canvas sails, low railings and sea beyond. Clear walking space, no crew or weapons.",
+    "group": "setting_specific",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "9f40391386671652bc33035e60213a30ae040f755e1ccc12438a97f6ce73ead6",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "metal_ship_deck",
+    "label": "Палуба металлического судна",
+    "lighting": "outdoor",
+    "description": "The open deck of a metal seagoing vessel, plain metal railings, simple bulkhead edges and a view of the sea. No crew, weapons, logos or elaborate machinery.",
+    "group": "setting_specific",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "90abb042f010ad02f38489463be2c83f749ebbe931fe5a539a248c2fe569df07",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "railway_platform",
+    "label": "Железнодорожная платформа",
+    "lighting": "outdoor",
+    "description": "An empty railway platform with a clearly defined platform edge, rails beside it and a plain shelter in the distance. No trains, signs or electronic displays.",
+    "group": "setting_specific",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "a4c91e25784f9bc046955109b8542625f3ac4992989d77f19704108a929579bf",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "train_car",
+    "label": "Вагон поезда",
+    "lighting": "windowed",
+    "description": "The interior of an empty passenger railway carriage, paired seats, a central aisle and broad characteristic train windows. No passengers, logos or readable notices.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "0ce701f5fb363a0465bdf051741e694a148f529be5b114ee02ddf207e56d8f91",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "station_hall",
+    "label": "Зал вокзала",
+    "lighting": "windowed",
+    "description": "An empty railway station waiting hall with a high ceiling, simple benches and broad openings leading toward platforms. No electronic boards, shops or readable signs.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "5be60340b7982b73b3e0d9db385a53677955b9174f4991c639b77b0b3dd111c0",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "metro_car",
+    "label": "Вагон метро",
+    "lighting": "windowed",
+    "description": "The interior of an empty subway carriage, seats along the walls, sliding doors and simple grab rails. No passengers, advertising, route maps or lettering.",
+    "group": "setting_specific",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "aad095cc16e79becbb51d5a33fea3698b2519cfb2bbbafd32a19497cfb8c8bb5",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "car_interior",
+    "label": "Салон автомобиля",
+    "lighting": "windowed",
+    "description": "The interior of a parked car viewed from the rear seat, front seats, a simple dashboard and a windshield facing a quiet road. No driver, logos or readable instruments.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "725db084b02085e3ee03da83f0d1fb4828df848d1b4168c9400ec49fc061bd7c",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "bus_interior",
+    "label": "Салон автобуса",
+    "lighting": "windowed",
+    "description": "The interior of an empty passenger bus, paired rows of seats, a central aisle and large side windows. No passengers, logos or readable notices.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "e4b3d9e7e3c7cd7c247af847aa165ae829b3fb6213dfe1733c08461014ed5da9",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "airplane_cabin",
+    "label": "Салон самолёта",
+    "lighting": "windowed",
+    "description": "The interior of an empty passenger airplane cabin, orderly seats, a central aisle and small oval windows. No passengers, branding or legible safety text.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "aircraft",
+      "artwork_sha256": "c8f3ed81f1a458ad71c89e8aab735c4eb1281b956973e41b509b47c39c0bee26",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "carriage_interior",
+    "label": "Конная повозка",
+    "lighting": "windowed",
+    "description": "A view from inside a plain wooden horse-drawn carriage with a simple bench and low side panels, a quiet landscape beyond. Horses and drivers are outside the frame.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "693c84adf5cb3ca0890f46a2b18413da5cf21f27dee8e8a6bf181f866fa8c8f7",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "airport_terminal",
+    "label": "Аэропорт",
+    "lighting": "windowed",
+    "description": "An empty airport terminal with broad glass windows, simple waiting seats and open circulation space. No aircraft in frame, brands, electronic boards or readable signage.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "976ae4f370f875ad4d2f764f1db6220f66023af129b06b8f485040ac43e9dc61",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "fuel_station",
+    "label": "Заправка",
+    "lighting": "outdoor",
+    "description": "An empty fuel station with simple fuel pumps and a plain canopy, a clear forecourt. No vehicles, brand logos, price panels or lettering.",
+    "group": "setting_specific",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "5294b470c63f212fcc95dedd9f4fd2b0450ff771d942787a895dd1893eb1190c",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "underground_parking",
+    "label": "Подземная парковка",
+    "lighting": "enclosed",
+    "description": "An empty underground parking garage with concrete columns, a simple ramp and clearly spaced parking bays. No cars, signs or readable painted numbers.",
+    "group": "setting_specific",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "bcaa32a6f533e8491e39215b3cd33e212df616c412c746bc3285ce6309b3917d",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "elevator",
+    "label": "Лифт",
+    "lighting": "enclosed",
+    "description": "The interior of an empty mechanical elevator with plain metal walls and closed sliding doors, a small unlabeled button panel. No mirrors reflecting people or readable numbers.",
+    "group": "setting_specific",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "a4f393dc7765e13e5e1e86acccfa3a1865f444bb4ff8abf12626f3be6410d718",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "hospital_room",
+    "label": "Больничная палата",
+    "lighting": "windowed",
+    "description": "An empty hospital room with a medical bed, a bedside cabinet, a modest medical stand and a window. No patients, staff, branding or readable labels.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "da7a2bfd82998c68c894ecfaf52fe97ff837e2a453e9adb3cdcca61e651833ae",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "operating_room",
+    "label": "Операционная",
+    "lighting": "enclosed",
+    "description": "An empty operating room with an operating table, overhead surgical lamps and a few restrained medical instruments. Clean plain surfaces, no people, blood or lettering.",
+    "group": "setting_specific",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "8d98a939594e8bcb5963f32d2b446d5e2db1fc72b530154ee39fd331555f59b5",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "laboratory",
+    "label": "Лаборатория",
+    "lighting": "windowed",
+    "description": "An empty laboratory with broad work surfaces, a few glass vessels and simple scientific instruments, a side window. No labels, brands or text on screens.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "645f31a92dc7a45ea34abc0c108131254e7f9f1485dcae638271a6b790ebac31",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "sparks"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "factory_floor",
+    "label": "Заводской цех",
+    "lighting": "windowed",
+    "description": "An empty factory hall with several large industrial machines, a broad safe walking aisle and high windows. No workers, brands, warning signs or excessive pipes.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "dbb24663accf18033c8040e1a0dd39e1fc0d6f2b86503a419e540491a252250c",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "sparks"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "server_room",
+    "label": "Серверная",
+    "lighting": "enclosed",
+    "description": "An empty server room with orderly racks of computing equipment and a clear aisle, a few restrained indicator lights. No labels, cables cluttering the floor or people.",
+    "group": "setting_specific",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "dea3c0632f341f3c0db3e4fdbf3b23648fc1fe1370cf574ae9078924c5b8b41b",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "sparks"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "museum",
+    "label": "Музей",
+    "lighting": "windowed",
+    "description": "A quiet museum gallery with a few glass cases and simple plinths holding small neutral pottery pieces, a broad walking area and high windows. No famous artworks or captions.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "ddad4154ada84809d343449ec0c303eff5ded0ed0f885149e11c82f1960d5cca",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "theater",
+    "label": "Театр",
+    "lighting": "enclosed",
+    "description": "An empty theater viewed from the rear seating area toward a simple stage and plain curtains, restrained rows of seats. No performers, modern stage equipment or lettering.",
+    "group": "setting_specific",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sealed",
+      "artwork_sha256": "b465b9dde1f21ecbbfb4b2ba8307b80ca69f527ee4ca3abef431eda0446a4d1b",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "castle_courtyard",
+    "label": "Двор крепости",
+    "lighting": "outdoor",
+    "description": "An empty stone fortress courtyard with plain defensive walls, a broad arched gate and a clear paved foreground. No banners, crests, soldiers or magical effects.",
+    "group": "setting_specific",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "8ee8794863596d0cdd314359d31633ac1c3bbdeb0226d45c5888c93337c3c649",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "castle_wall",
+    "label": "Крепостная стена",
+    "lighting": "outdoor",
+    "description": "A walkway along a stone fortress wall with simple battlements and a broad distant landscape. No flags, soldiers, heraldry or magical effects.",
+    "group": "setting_specific",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "cb28d28696e82c1925aaa1dd2f2a68696ea2152af04f7c145a1c2707d2b2be9c",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "hangar",
+    "label": "Ангар",
+    "lighting": "enclosed",
+    "description": "A large empty hangar with broad structural beams, wide closed doors and a clear floor. No aircraft, vehicles, readable signs or equipment fixing a specific transport type.",
+    "group": "setting_specific",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "bf38ac316e6afce31d0027faa1a83145d748c1ece4f016f09cdd7ce145cb256c",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [
+        "sparks"
+      ],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "mage_study",
+    "label": "Кабинет мага",
+    "lighting": "windowed",
+    "description": "A modest magician's study with bookshelves, a worktable and a few visibly magical floating geometric objects with restrained light, a narrow window. No characters, inscriptions or ornate clutter.",
+    "group": "unusual_world",
+    "time_mode": "windowed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "sheltered",
+      "artwork_sha256": "064c11a6362d322986518cdf0d8a645b7a21bb810e6832b2e191644db3232402",
+      "weather_mode": "masked",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "future_city",
+    "label": "Футуристическая улица",
+    "lighting": "outdoor",
+    "description": "An empty futuristic street with clearly advanced curved architecture, a few restrained integrated light strips and a broad walkway. No vehicles, holographic advertisements or readable text.",
+    "group": "unusual_world",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "open",
+      "artwork_sha256": "a974b9c27208f9fb8822a439a078762f2429e1e236a3fdf414a63d60ccc4f4ad",
+      "weather_mode": "full",
+      "weather_allowed": [
+        "rain",
+        "storm",
+        "fog",
+        "snow"
+      ],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": true,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "space_station_corridor",
+    "label": "Коридор космической станции",
+    "lighting": "space",
+    "description": "An empty space station corridor with sealed bulkhead doors, modular wall panels and restrained integrated lighting. No windows showing daylight, crew or readable signs.",
+    "group": "unusual_world",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "space",
+      "artwork_sha256": "786c5e017206f2cda196475cc57684f8029c4e0ae3e83898125e9af332c86cba",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "spaceship_bridge",
+    "label": "Мостик космического корабля",
+    "lighting": "space",
+    "description": "An empty spaceship bridge with simple control consoles and a broad forward window showing dark space and distant stars. No crew, planets filling the window or text on displays.",
+    "group": "unusual_world",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "space",
+      "artwork_sha256": "2dd48e2db3711661e13dec35715a6cbabe804c881b5ed9244f7f7a40ce60e287",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "space_observation_deck",
+    "label": "Обзорная палуба станции",
+    "lighting": "space",
+    "description": "An empty space station observation lounge with a broad panoramic window showing dark space and distant stars, simple seating and no control consoles. No people or screen text.",
+    "group": "unusual_world",
+    "time_mode": "fixed",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "space",
+      "artwork_sha256": "1ea763c139b623f769299f557a3bd3306641c9c7579773ff248b0e9f13278626",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "alien_planet",
+    "label": "Поверхность чужой планеты",
+    "lighting": "alien",
+    "description": "An empty alien landscape with unusual broad rock formations and simple unfamiliar plant silhouettes, an open foreground and distant horizon. No creatures, buildings or glowing story artifacts.",
+    "group": "unusual_world",
+    "time_mode": "outdoor",
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "alien",
+      "artwork_sha256": "c688729793775c98db1689825d4ec88ea36636d4b50543c88061cfa241c5a7ac",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": true
+    }
+  },
+  {
+    "id": "abstract_space",
+    "label": "Нейтральная подложка",
+    "description": "An abstract continuous digital gouache color field, broad soft matte shapes in muted slate gray, dusty taupe and desaturated blue, subtle hand-painted texture and gentle tonal depth. No recognizable room, architecture, objects, landscape, horizon, sun, sky or directional lighting. The painting fills the entire frame with calm balanced shapes and a simple foreground.",
+    "lighting": "enclosed",
+    "environment": "enclosed",
+    "time_mode": "fixed",
+    "group": "fallback",
+    "is_fallback": true,
+    "file": null,
+    "effect_profile": {
+      "schema_version": 1,
+      "setting": "fallback",
+      "artwork_sha256": "f50eef0218ecc793a57184b89f0b792837878bbcd7a7ce7056f813569b62e1bd",
+      "weather_mode": "none",
+      "weather_allowed": [],
+      "weather_masks": [],
+      "fireflies_habitat": false,
+      "ash_fallout": false,
+      "local_effects": [],
+      "effect_regions": {},
+      "event_flash": false
+    }
+  }
+]

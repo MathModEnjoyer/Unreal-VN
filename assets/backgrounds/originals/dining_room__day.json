@@ -1,0 +1,20 @@
+{
+  "signature": "6048cb8939b4a567beb823fea59a94abf90f0ff96d9b13e202bba8299d377d62",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "dining_room",
+    "time": "day",
+    "time_mode": "windowed",
+    "lighting_state": "day",
+    "seed": 8701014831836822505,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. Inside an empty modest dining hall with a few simple wooden tables and ordinary chairs arranged along the sides. A broad clear walking area leads toward a plain serving counter at the far wall. Simple side windows and restrained plaster and wood surfaces. View from inside the room at human eye level. Neutral diffuse daylight through the existing windows or openings, balanced readable interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, ",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "d5a0c63b7e957d3c4897a0a9d933ba883e46066c609c60b7d3fac0767612c52a",
+  "created_utc": "2026-10-15T16:47:36Z"
+}

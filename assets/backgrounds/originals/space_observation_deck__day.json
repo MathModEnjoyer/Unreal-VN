@@ -1,0 +1,18 @@
+{
+  "signature": "4b9f663486e81e015944977ad8bcf1c6b87a2d9d1ede2f260bfde4134719de51",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "space_observation_deck",
+    "time": "day",
+    "seed": 2198776470471705532,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. An empty space station observation lounge with a broad panoramic window showing dark space and distant stars, simple seating and no control consoles. No people or screen text. The normal onboard day shift, balanced neutral interior lighting. Space beyond any existing windows stays dark.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "e97f5360b82e95cfb27e313c307213fdd14c5a3c3dd2e2d785998a2515d7b880",
+  "created_utc": "2026-10-14T20:01:43Z"
+}

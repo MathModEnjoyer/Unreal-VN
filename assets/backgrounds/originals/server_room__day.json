@@ -1,0 +1,20 @@
+{
+  "signature": "443367ee742eb776766c95a10f4acf50fa223c5890e1539c2f493eee797bed0a",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ef0def16ab61a1ee808a353b86929befb81d5326c4fc6bc2d97a58efe0a4c7c0",
+    "location_id": "server_room",
+    "time": "day",
+    "time_mode": "fixed",
+    "lighting_state": "neutral",
+    "seed": 5948536250716901299,
+    "variant": 2,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, human eye level, moderate field of view, coherent natural perspective. The environment extends to all four edges. Readable main objects in the middle ground and a clear ground plane in the bottom quarter of the picture. A small recognizable computer server room viewed from inside its central aisle. Rows of open-front black metal equipment racks stand along both sides. Each rack clearly contains a stack of separate horizontal dark server modules, narrow ventilation grilles and a few tiny green status LEDs. Rectangular electronic modules and their ventilation slots are plainly visible in the middle ground. A few short cables connect the equipment. One continuous floor and ceiling frame the aisle, with steady neutral ceiling lights. The equipment is rack-mounted electronics at human scale. Steady soft local illumination, readable subdued surroundings and a consistent balanced palette.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, locker room, school lockers, changing room, wardrobe, clothes cabinet, closed opaque cupboard doors, tall door handles, coat hooks, empty metal cabinets, lockers, blank cabinet fronts",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "2bb74ea8049a56b6c381f587c402b92e603de6091c7ddd57860990b8486b7b2e",
+  "created_utc": "2026-10-15T18:19:28Z"
+}

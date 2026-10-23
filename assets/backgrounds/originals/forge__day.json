@@ -1,0 +1,20 @@
+{
+  "signature": "c6a50fa7df5ed99cc1f92d4b6ae53094d87bd8517ad89d3f5aefad16fc456c6c",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ef0def16ab61a1ee808a353b86929befb81d5326c4fc6bc2d97a58efe0a4c7c0",
+    "location_id": "forge",
+    "time": "day",
+    "time_mode": "fixed",
+    "lighting_state": "neutral",
+    "seed": 4887949991301150182,
+    "variant": 2,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, human eye level, moderate field of view, coherent natural perspective. The environment extends to all four edges. Readable main objects in the middle ground and a clear ground plane in the bottom quarter of the picture. An unobstructed interior view of a small blacksmith workshop. A substantial stone forge hearth occupies the left middle ground, with red coals entirely contained inside its recessed firebox. One solid dark iron anvil with a single horn stands on one plain wooden block in the right middle ground, separated from the hearth by a clear stretch of floor. The anvil and its block have plain cool matte surfaces. A simple side workbench holds one hammer and a pair of tongs lying flat. The hearth, anvil and workbench have believable human-scale proportions. The work area is clearly visible across the room. Steady soft local illumination, readable subdued surroundings and a consistent balanced palette.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, two anvils, multiple anvils, duplicated anvil, hollow anvil, deformed anvil, burning anvil, fire on anvil, glowing anvil, stove under anvil, fire under wooden block, floating tools, upright floating hammer, tiny hearth, oversized tools",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "4c53aff00929902f542dd341ab9a4ae756c18d4d42f395ddb4d53da57d59cddc",
+  "created_utc": "2026-10-15T18:15:41Z"
+}

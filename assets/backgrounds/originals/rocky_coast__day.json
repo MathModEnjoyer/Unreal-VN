@@ -1,0 +1,18 @@
+{
+  "signature": "226762924957f999fb3dbde36cb6518f45c564e49a687c9348d20695c480e98d",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "rocky_coast",
+    "time": "day",
+    "seed": 4490897756387954171,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A rugged coastal cliff overlooking the sea, broad rock formations and a narrow safe footpath in the foreground. No buildings. Daytime with clear neutral daylight, balanced natural colors, readable shadows and a simple sky.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "2c0eb37b7860649656d994937fb1b8c583aca66e51ec3ccf519b3f76476c56af",
+  "created_utc": "2026-10-14T16:39:21Z"
+}

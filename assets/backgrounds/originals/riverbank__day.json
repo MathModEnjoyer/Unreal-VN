@@ -1,0 +1,20 @@
+{
+  "signature": "f1c09403f1dce2b913d1a002cf6f75dc4a049afa2d54a60f466873fd1438b4d2",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "riverbank",
+    "time": "day",
+    "time_mode": "outdoor",
+    "lighting_state": "day",
+    "seed": 732748565070071387,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. A broad natural river seen from the grassy bank where the viewer is standing. A gentle river bend leads between low riverbanks toward distant trees. Water, grass, a few irregular stones and a wooded horizon form one continuous landscape. The near bank is open and uncluttered. Neutral daytime illumination, natural colors, a simple sky and readable soft shadows.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, ",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "805e780b52dd00c72dd2209e28ea6ed6057e036676f32f3dfcb171c511cba65b",
+  "created_utc": "2026-10-15T16:40:42Z"
+}

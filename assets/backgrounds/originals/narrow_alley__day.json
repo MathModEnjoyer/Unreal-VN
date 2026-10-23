@@ -1,0 +1,18 @@
+{
+  "signature": "c2fb16c4508714691ce8bb0631d85c26f240e821059fa5a8d1bad2454599a57e",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "narrow_alley",
+    "time": "day",
+    "seed": 5613033566471968922,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A narrow empty alley between plain plaster and stone walls, simple doorways and a bend in the passage. No signs, cables or vehicles. Daytime with clear neutral daylight, balanced natural colors, readable shadows and a simple sky.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "28fd89a414ea99524ff442d4246d7cadcacb263f8a30a808b2a047c5fc5bb0b0",
+  "created_utc": "2026-10-14T17:53:15Z"
+}

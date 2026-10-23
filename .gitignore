@@ -1,0 +1,46 @@
+# Local secrets and player data
+.env
+.env.*
+!.env.example
+.story_engine/
+config.json
+*.sqlite3
+*.sqlite3-*
+*.db
+
+# Generated request logs, transcripts and saved stories
+logs/
+**/logs/
+*_debug.jsonl
+*_transcript.jsonl
+
+# Dependencies and reproducible build output
+node_modules/
+**/node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+frontend/dist/
+.pytest_cache/
+
+# Temporary exports and local editor files
+*.zip
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Machine-learning weights are downloaded separately by the optional notebook.
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+models/
+.huggingface/
+.ipynb_checkpoints/

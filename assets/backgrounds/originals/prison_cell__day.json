@@ -1,0 +1,18 @@
+{
+  "signature": "ada5e4d79196ddc3d6c560ea32fb3b2a6319a54719a6740322a94542179c04d6",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "prison_cell",
+    "time": "day",
+    "seed": 7376298977799347107,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. A simple prison cell with plain stone walls, an iron barred door, a modest sleeping platform and a small high window. No cameras or technological security devices. Daytime, neutral daylight entering through the existing openings, balanced interior illumination.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "f9d3357f9f730ad5109ae3d08bc03276c24f0ecf097d2a42b4bf234e25b4b785",
+  "created_utc": "2026-10-14T18:44:07Z"
+}

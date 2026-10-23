@@ -1,0 +1,20 @@
+{
+  "signature": "71c3ae2fd5193e90e36ea78fef40abdc86d8b04f475cb23acf33cc022f9cc3b2",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "ship_hold",
+    "time": "day",
+    "time_mode": "fixed",
+    "lighting_state": "neutral",
+    "seed": 2793004876652669341,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. Inside a wooden ship cargo hold at eye level. Curved wooden ribs, ceiling beams and plank walls surround a broad clear central floor, extending to every image edge. A few plain crates, sacks and coiled ropes rest along the side walls. A complete coherent interior at human scale, softly lit by steady local ambient illumination. Steady soft local illumination, readable subdued surroundings and a consistent balanced palette.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, side elevation, banner, extreme panorama",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "3d46e7163d6d89f6675b0081f5af22236720b117ca09c48c2f79fc15a2d219e6",
+  "created_utc": "2026-10-15T16:56:21Z"
+}

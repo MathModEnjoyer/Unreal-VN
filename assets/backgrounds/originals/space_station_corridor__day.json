@@ -1,0 +1,18 @@
+{
+  "signature": "17801c8342735d6793be3c68a8359f129ee09de4b1cd0abf5114559962e86858",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ee5abb7a38a38d7e24493c7f7d3f55f10cd76606f873df12eb467f0a0d245d7c",
+    "location_id": "space_station_corridor",
+    "time": "day",
+    "seed": 4461395306631143429,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache illustration, a painted visual novel background with a gentle anime influence. Simple readable shapes, broad matte color masses, soft hand-painted brush texture, restrained detail, coherent perspective and a harmonious muted palette. Eye-level wide establishing view, balanced 16:9 composition. Keep the central and side foreground areas calm for character overlays; keep the lower quarter visually simple for a dialogue box. An unoccupied environment without humans or animals, no writing, no logos. An empty space station corridor with sealed bulkhead doors, modular wall panels and restrained integrated lighting. No windows showing daylight, crew or readable signs. The normal onboard day shift, balanced neutral interior lighting. Space beyond any existing windows stays dark.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, character, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye",
+    "reference_day_sha256": null,
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "75fe52d6c245942112ba761bd2554e16a9f2df377e1892892c76076afa6ea332",
+  "created_utc": "2026-10-14T19:57:41Z"
+}

@@ -1,0 +1,20 @@
+{
+  "signature": "438e3eb94a4a5beb168dfe5801a2bb31b05f6de84a177ae17b92299e8ed926a0",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "ef0def16ab61a1ee808a353b86929befb81d5326c4fc6bc2d97a58efe0a4c7c0",
+    "location_id": "old_bridge",
+    "time": "day",
+    "time_mode": "outdoor",
+    "lighting_state": "day",
+    "seed": 6122058130916815987,
+    "variant": 2,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, human eye level, moderate field of view, coherent natural perspective. The environment extends to all four edges. Readable main objects in the middle ground and a clear ground plane in the bottom quarter of the picture. Standing on the near end of one old stone bridge, looking forward along its gently arched stone walkway toward the opposite riverbank. Two low weathered stone parapets run along the left and right edges of the walkway. River water is visible below the parapets at the sides. The far bank has low trees. The top third of the picture is unobstructed open sky above distant treetops. One continuous bridge connects the foreground path to the opposite bank. The viewer is outdoors on top of the bridge. Neutral daytime illumination, natural colors, a simple sky and readable soft shadows.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, roof, ceiling, canopy, overpass, bridge overhead, overhead slab, beam across sky, second bridge, multiple bridges, tunnel, blank band, horizontal strip, foreground wall blocking view, diagram, side elevation",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "d2c79cfac17de05808270d72c30b8c6992abf2605db0f2ee49fc0f2b9bee80c3",
+  "created_utc": "2026-10-15T18:13:46Z"
+}

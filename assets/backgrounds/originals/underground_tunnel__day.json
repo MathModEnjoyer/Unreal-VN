@@ -1,0 +1,20 @@
+{
+  "signature": "de7db3209bc1f6d8dd533e42bce6eabfb84a3cd67123d4d2702574a6705254fa",
+  "parameters": {
+    "stage": "original",
+    "run_hash": "96ff0c17e440f12679f642a955c337293cdedb73ec58e0a284fc1006c2d7b406",
+    "location_id": "underground_tunnel",
+    "time": "day",
+    "time_mode": "fixed",
+    "lighting_state": "neutral",
+    "seed": 8985051824931470992,
+    "variant": 1,
+    "prompt": "masterpiece, best quality, scenery, background. Digital gouache environment painting with a gentle anime influence. Simple readable forms, broad matte color masses, a subtle soft hand-painted texture, restrained detail and harmonious muted colors. A single continuous full-frame scene, eye-level wide view from within the environment, coherent natural perspective. The painted scene extends to all four edges. Balanced composition with an open calm foreground. Inside a fully enclosed underground maintenance passage at human eye level. Plain continuous walls and a solid ceiling surround a broad walkway that leads into the distance. A few restrained utility pipes run along one side wall. Simple fixed practical lamps softly illuminate the tunnel interior. Steady soft local illumination, readable subdued surroundings and a consistent balanced palette.",
+    "negative_prompt": "worst quality, low quality, blurry, jpeg artifacts, chromatic aberration, photograph, photorealistic, 3d render, pixel art, glossy plastic, excessive tiny details, people, person, human silhouette, crowd, face, animals, birds, text, letters, numbers, subtitles, watermark, logo, signs, posters, user interface, GUI, HUD, dialogue box, speech bubble, textbox, menu, buttons, screenshot, game screen, frame, border, panel, split screen, collage, contact sheet, color swatch, color palette chart, diorama, miniature, cutaway, cross section, isolated object, white background, blank rectangular overlays, horizontal strip, rain, thunderstorm, lightning, snow, fog, dramatic weather, tilted horizon, fisheye, open sky, courtyard, roofless building, aerial view",
+    "width": 1280,
+    "height": 720,
+    "denoise": 1.0
+  },
+  "image_sha256": "d0987d5645311d65b276601908a62dd59fce9c1f65c1e86441ee883dbc3ce86a",
+  "created_utc": "2026-10-15T16:54:36Z"
+}

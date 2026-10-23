@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-21",
+  "method": "Pillow/NumPy: local alpha masks, closed outlines and face restored from source",
+  "repairs": [
+    {
+      "id": "man_casual_001",
+      "original_sha256": "d80c36bb9e77af930057f487fade8e392b712c040cfe080e64cd135068ce2dde",
+      "before_sha256": "00984b8f3d83786db95aaef97bcb13ed80f4cfa9fb73084ab1f848d5518f1331",
+      "after_sha256": "1229ddecab13cf103678bd7bf3cc0e6abc4bd0ef96c585b4fc6c2ec707121a05",
+      "changed_pixels": 5052,
+      "removed_alpha_pixels": 5052,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Остаток тени у обуви."
+    },
+    {
+      "id": "man_coat_005",
+      "original_sha256": "b000f1e3dbd95aa4906d3fe5270f1b413a456474b70ebf506e7dc3ac80f9eb80",
+      "before_sha256": "14256895874ac78f8c06fc509cbb3a4926fd56d8703b16e2c3e1cc6b8155cc86",
+      "after_sha256": "6932155464025b8577a26ae633577e5728e8deb630cfcaebbd311298fd9732ff",
+      "changed_pixels": 9419,
+      "removed_alpha_pixels": 9419,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Овальная тень под ногами."
+    },
+    {
+      "id": "man_coat_007",
+      "original_sha256": "2f2606e3c8f933147af90b1499a0f2dffc6fb49ca030b22b2cf861cc9aeb51ee",
+      "before_sha256": "ebc9cd26645536e334e221ac9b7e22159eb33560aa19ef5f180f18ddf309ca31",
+      "after_sha256": "0c2c1dea515b820480792224e0a4a43738f96ded87b3ff92d415a6bf57583aa3",
+      "changed_pixels": 7401,
+      "removed_alpha_pixels": 7401,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Тень и пятно под обувью."
+    },
+    {
+      "id": "man_dress_011",
+      "original_sha256": "beb7e1b77480beda450fd2924ad3a6b5bd0e755f3dc6835c8ccd46f108edf274",
+      "before_sha256": "353d3eecef5076d7fb02f0e8ed2495f86cdc341f060ee8ea52171739d32de1f3",
+      "after_sha256": "7d04ed373495a88ff14cec621526e723e6a98df4c896b0483f7bc9e2952e5ed3",
+      "changed_pixels": 9560,
+      "removed_alpha_pixels": 9560,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятно тени у обуви."
+    },
+    {
+      "id": "man_medic_010",
+      "original_sha256": "1ee87d543e3bc2e6133b0dee64dcd6681f303bf5b8182a70a1fa50ba8dd1622c",
+      "before_sha256": "25832395ddda9e5e233a36360fe7e64d6e534de788fc45be982286a3755ca6ec",
+      "after_sha256": "9a7370d3f9f49f19d10b0076a7e16f08171693915f48b2965b8ce70ea506bf75",
+      "changed_pixels": 9225,
+      "removed_alpha_pixels": 9225,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлый остаток фона между ногами."
+    },
+    {
+      "id": "man_medic_012",
+      "original_sha256": "bc84f91d4ea7350c6d96814420cd2c0e2938385b057a89d089d98219abbca366",
+      "before_sha256": "79a0f849c7a6e369d3f429fe41a65ffdf38e9049d2ccf3fa2d2ad19e015f3d2f",
+      "after_sha256": "7ae525078770a7118b7f9e30846fd0071b39f26fcfa4e4a4da0b8e01f0fe9002",
+      "changed_pixels": 15969,
+      "removed_alpha_pixels": 15969,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Большая тень под ногами."
+    },
+    {
+      "id": "man_robe_004",
+      "original_sha256": "26788bd5d400c85d6460b2bf1711b873c5a6bb5aaeb163efdd93910359ff690e",
+      "before_sha256": "fc431fbf74b6dc532abb311b57ebf4de029288cedf81be2d8455c021c8e22623",
+      "after_sha256": "431bc8669aa0351640fbf83485e22d13103b0cd16beb07aa6d948e503c9a8c07",
+      "changed_pixels": 7262,
+      "removed_alpha_pixels": 7262,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятно тени между ботинками."
+    },
+    {
+      "id": "man_robe_010",
+      "original_sha256": "c07a5a90f6a60ac570690eb68db0be434d2df6d424c7e3d34902c83c61c41e28",
+      "before_sha256": "ee67ac1b5112b172e1a78cad0e07a31b801c9b4c40b1fd9e8ab74d58b4d22f2c",
+      "after_sha256": "50299ce3b360f23aee7d4e2a896138c6101860dee808e4fccfc0f8cc8cf3be0b",
+      "changed_pixels": 7340,
+      "removed_alpha_pixels": 7340,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятно тени у обуви."
+    },
+    {
+      "id": "man_space_009",
+      "original_sha256": "c872b393e92aa253d51416965e98bc7ec0a3f857bc9aa5cce52830475186d66c",
+      "before_sha256": "44e31f3f1da4c8c711523818bfb13e7ba89aaebb52f674262befc9be48340dfb",
+      "after_sha256": "216bdc6e63f84d604cb91ca125908843c589abd3a0d265ba8bd3355e4a4b69dd",
+      "changed_pixels": 6714,
+      "removed_alpha_pixels": 6714,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятна тени вокруг ботинок."
+    },
+    {
+      "id": "man_uniform_005",
+      "original_sha256": "22e1375340ba9fa8684403e78d131faa10c391e589f96f1ad7b2509c7d4f8dab",
+      "before_sha256": "473c1eb73b4a5c7f598bcdee4b9e5040c3bf580c044bb8b444bcc4e21ea34aa7",
+      "after_sha256": "4793b07b1607c5f9678ae37abecc0e565dab455ecdcff451f3e6114504d5e2c7",
+      "changed_pixels": 10293,
+      "removed_alpha_pixels": 10293,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Остатки тени под ногами."
+    },
+    {
+      "id": "man_uniform_007",
+      "original_sha256": "435c7cd1c8b83210cc8185180c88352edfe2e0a0e291ff9a65e35870448db0c0",
+      "before_sha256": "6a22a2efb787dcd2533d7134b856a112c018e8a0b149a1b45937e046643d1a38",
+      "after_sha256": "9e04458a26465917eab639f9e3988093daeeae1d71659f45425dcc946a85f6d8",
+      "changed_pixels": 15129,
+      "removed_alpha_pixels": 15129,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлый остаток фона между ногами."
+    },
+    {
+      "id": "man_work_008",
+      "original_sha256": "b96c6a6b5bdd22db8a5914d52b79bb90e6e5a8841590c158158685a2cf5f74c2",
+      "before_sha256": "7caf91ad1415d68b4b3f515adc6c81e131a1478fe2e1e29fb5eb87d8dd605a69",
+      "after_sha256": "cd657efb2e1da3326d2376e401fe30ce36c4936e3e05102c80c073742b92442a",
+      "changed_pixels": 9425,
+      "removed_alpha_pixels": 9425,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлое пятно тени под ногами."
+    },
+    {
+      "id": "woman_casual_002",
+      "original_sha256": "492139a49fa4d52641cc7cddeebed0976b8fc4356e4ce831be491a49d3b7ca46",
+      "before_sha256": "f6e88562daee3325075413f20c157ebc5fbaca5c20056ff33c9ff085cb425968",
+      "after_sha256": "9e0a008848c5ae633b654ec9cd20ebe7ff9c92d243bcae6e602e9b5b3ef73cfb",
+      "changed_pixels": 3749,
+      "removed_alpha_pixels": 3749,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлый остаток фона у обуви."
+    },
+    {
+      "id": "woman_casual_004",
+      "original_sha256": "26ecdad9fa6ef92eb69d6b86e3ee4c4926a0adc9bd848af8a760ff3fea5cc9a9",
+      "before_sha256": "a8cb9b0ae9f5091b523502913ff01d6eaed87d4e2a66fa60f733bc1278e9d99b",
+      "after_sha256": "cf25dbf0f2696099c9ce5a46b242ed1f669296ff819fae390d67b5205230963f",
+      "changed_pixels": 8617,
+      "removed_alpha_pixels": 8617,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлый остаток фона между ногами и у обуви."
+    },
+    {
+      "id": "woman_casual_005",
+      "original_sha256": "dde74ed9d1145f3fe41386a3e22dfb5f71b5529e5511436ea52aab77cbfc6a6b",
+      "before_sha256": "8429ff148e729775d0a8cb50d8c0da67046f718168377c46865e697b8d370354",
+      "after_sha256": "60a36dc393a87dfb9f924db2f7cca4efd63558ac9aec27deeb3e5f1f8ea1119d",
+      "changed_pixels": 4742,
+      "removed_alpha_pixels": 4742,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Контур и пятно у обуви."
+    },
+    {
+      "id": "woman_dress_005",
+      "original_sha256": "7c0f89134543a905efd94095053e6dba9ef8fb21b37118fcbc00aedf3dccc845",
+      "before_sha256": "7c6913bb8df843b477335e46c60e85eb65b958e0d12e67c59358ef01b622af18",
+      "after_sha256": "0934534acb13d0e82d3570d9eca2d0f2c686f044b0329d5285122de7d6757e95",
+      "changed_pixels": 8932,
+      "removed_alpha_pixels": 8932,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Крупная овальная тень под ногами."
+    },
+    {
+      "id": "woman_dress_008",
+      "original_sha256": "1bc64702ddab4ea4411165a0b37d30037d98faf4c12d98bee83a7eae074bcd2d",
+      "before_sha256": "754265ca28143c2334111874572b4e52603871b500600f37d73f82a9f0695b5a",
+      "after_sha256": "8f49b54f71203b4f582bb9a6c07689f73f6cc2a972471525f5fa5248858d9a48",
+      "changed_pixels": 3336,
+      "removed_alpha_pixels": 3336,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлое пятно у обуви."
+    },
+    {
+      "id": "woman_formal_005",
+      "original_sha256": "d0e4a458e4342f1f4ffbda0126cd529f16a709c8ce5231f209649d9d33c6ce7e",
+      "before_sha256": "e6fd15afbcc02c961a947e439198989cae437a08dbcac8475ba3100f97b08c7f",
+      "after_sha256": "a1af3bd4525838a51fe6e28beefc54391cf01aa11ccc0ec58b1cac2a74e18397",
+      "changed_pixels": 20551,
+      "removed_alpha_pixels": 20551,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Тень уходит в сторону от обуви."
+    },
+    {
+      "id": "woman_medic_003",
+      "original_sha256": "ae902397d43e1a234bb9b964c9aee30e8d844e29e6f4be60310c561130811ee7",
+      "before_sha256": "c8067fceadd96ad9d08699aa097f106fee46ab413043ef72110c0670c714faf3",
+      "after_sha256": "65073c484a46c0d56ead0f6f6887ae93279c611dad0250adca4bc5f439c6db1b",
+      "changed_pixels": 23101,
+      "removed_alpha_pixels": 23101,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлые остатки фона между ногами и вокруг обуви."
+    },
+    {
+      "id": "woman_robe_006",
+      "original_sha256": "3aacd5e37b7f584c3f2e95acab5aee21ededbe249e8f2ecb19ef140ee5b0f0cf",
+      "before_sha256": "b06b49b4ead6ea92df650b8252c010defe4c980257a94130eba97738b0dd614b",
+      "after_sha256": "00c3e5abd47f573ee869bfe6da953b8b2727b5840308c8927506e55be8503b8e",
+      "changed_pixels": 9703,
+      "removed_alpha_pixels": 9703,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятно под обувью."
+    },
+    {
+      "id": "woman_space_001",
+      "original_sha256": "fc76430e6e3188a36b9eecfb069bdf116496dae78a659a84ff4ee4e5747cd973",
+      "before_sha256": "e271727917784d816292bb50c81a2e704e9f7466957b56efbac48a66e595a92c",
+      "after_sha256": "dc400606383144a72bd73ba265e00c234623e9b3c9067fb89ccfc27f64471d5b",
+      "changed_pixels": 14492,
+      "removed_alpha_pixels": 14492,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятно между ногами и под обувью."
+    },
+    {
+      "id": "woman_space_003",
+      "original_sha256": "4988ef7e5b458ef8fc4205cb47a50de0ed3c22fdad968f2691931049a7fb1bd0",
+      "before_sha256": "d2922b1a921463a6529aaa15f43a42f1c09dd2881ff0c8c1b4531ef7887a8481",
+      "after_sha256": "d9bade515cb8860dc4a2abd8196bdfcb7c7e327ef70127a4eee29701692222a4",
+      "changed_pixels": 10782,
+      "removed_alpha_pixels": 10782,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Пятно между ногами и под обувью."
+    },
+    {
+      "id": "woman_space_007",
+      "original_sha256": "24cfc50fab0896f3198b6a17c79ea2964b7a0217d8103d22f381c39b629d061c",
+      "before_sha256": "35442bb12b11932e52874038d6b0cf3ba6e3ce409cc6a8e09f8341ac63a1bbf9",
+      "after_sha256": "d511361622aa4fc3252df09cb388a2983d462c9915147486990f66bbf5b11dc5",
+      "changed_pixels": 5157,
+      "removed_alpha_pixels": 5157,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Остаток тени у обуви."
+    },
+    {
+      "id": "woman_traveler_005",
+      "original_sha256": "e4c4be6939dfd7dd157a4542ac398706ffe0d86437893d37e4172c6ec40502a0",
+      "before_sha256": "18f78d79b14fb495b5107e03698ddf0af1f6ee160c225f50463d6bca186c7495",
+      "after_sha256": "86faa01ca21cca5a247b766f199fcf539b29a1cd7c57dd91585bd1b62e92c3fc",
+      "changed_pixels": 10899,
+      "removed_alpha_pixels": 10899,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Тень у обуви."
+    },
+    {
+      "id": "woman_uniform_004",
+      "original_sha256": "e68c0df07e55043f7b1f49b63f861162f6232560ac34ec6198be32839bdc9406",
+      "before_sha256": "1f6faa88b034d6a382a9f11ad42024594765212def3b7a53ac5a9175e3948c06",
+      "after_sha256": "488f2e1773c916c4ecf72685823b3cb484f0972a59d8bb56d518a6ded45bb996",
+      "changed_pixels": 7270,
+      "removed_alpha_pixels": 0,
+      "restored_alpha_pixels": 7270,
+      "previous_note": "Проверить полупрозрачность лица: вырезка меняет его вид на цветном фоне."
+    },
+    {
+      "id": "woman_work_001",
+      "original_sha256": "b071c0c2954819b54b95049b4ae6245cccb7f60fa291ffc307ba8a150b752e13",
+      "before_sha256": "0b4172029562031758091d53cc05ad37234b65771a40093b8fcc8cc446d7f8c5",
+      "after_sha256": "82b35ad92c404fb64c348b012b846724072cb2e0edf4f883233a03e270911dc5",
+      "changed_pixels": 13163,
+      "removed_alpha_pixels": 13163,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Светлые остатки фона у обуви."
+    },
+    {
+      "id": "woman_work_012",
+      "original_sha256": "4b35e00902da466967b03165d959ea7a664913c58894d84b6219daff1a4b61cd",
+      "before_sha256": "65d3508c0803bf10acb60c8de864fb9784689227c44c387ca988d8afda5295e8",
+      "after_sha256": "b8d1e0cbb60cf1642fc5a0c01f0c1c1d7b21a2d45172fd536b864acf478d4e08",
+      "changed_pixels": 7984,
+      "removed_alpha_pixels": 7984,
+      "restored_alpha_pixels": 0,
+      "previous_note": "Заметная тень под ногами."
+    }
+  ]
+}
